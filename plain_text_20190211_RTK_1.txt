@@ -1,0 +1,2199 @@
+RTK1#1#one#####いち#一#一
+RTK1#2#two##ふたつ###に#二#二
+RTK1#3#three#####みっつ#三#三
+RTK1#4#four#####よっつ#四#四
+RTK1#5#five######五#五
+RTK1#6#six#####むい日#六#六
+RTK1#7#seven######七#七
+RTK1#8#eight######八#八
+RTK1#9#nine######九#九
+RTK1#10#ten######十#十
+RTK1#11#mouth######口#口
+RTK1#12#day######日#日
+RTK1#13#month######月#月
+RTK1#14#rice field######田#田
+RTK1#15#eye#####め#目#目
+RTK1#16#old#####ふるい#古#古
+RTK1#17#I######吾#吾
+RTK1#18#risk######<div>冒</div>#<div>冒</div>
+RTK1#19#companion######朋#朋
+RTK1#20#bright######<div>明</div>#<div>明</div>
+RTK1#21#chant######唱#唱
+RTK1#22#sparkle#####しょう析#晶#晶
+RTK1#23#goods######品#品
+RTK1#24#spine##A series of vertebrae extending from the skull to the small of the back, enclosing the spinal cord and providing support for the thorax and abdomen; the backbone.####呂#呂
+RTK1#25#prosperous#/ˈprɒsp(ə)rəs/#Successful in material terms; flourishing financially.#'prosperous middle-class professionals'###昌#昌
+RTK1#26#early######早#早
+RTK1#27#rising sun##The sun as it appears or emerges above the horizon.####旭#旭
+RTK1#28#generation######世#世
+RTK1#29#stomach##The internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the oesophagus to the small intestine.####胃#胃
+RTK1#30#nightbreak######旦#旦
+RTK1#31#gall bladder#/ɡɔːl//ˈbladə/#The small sac-shaped organ beneath the liver, in which bile is stored after secretion by the liver and before release into the intestine.####<div>胆</div>#<div>胆</div>
+RTK1#32#span######亘#亘
+RTK1#33#concave######凹#凹
+RTK1#34#convex######凸#凸
+RTK1#35#olden times######旧#旧
+RTK1#36#oneself#####じ分#自#自
+RTK1#37#white#####しろい#白#白
+RTK1#38#hundred#####ひゃく#百#百
+RTK1#39#in#####なか#中#中
+RTK1#40#thousand#####せん#千#千
+RTK1#41#tongue######舌#舌
+RTK1#42#measuring box##1.8 liter####升#升
+RTK1#43#rise up#####のぼる#昇#昇
+RTK1#44#round######丸#丸
+RTK1#45#measurement######寸#寸
+RTK1#46#specialty######専#専
+RTK1#47#Dr.######博#博
+RTK1#48#fortune-telling######占#占
+RTK1#49#above######上#上
+RTK1#50#below######下#下
+RTK1#51#eminent##(of a person) famous and respected within a particular sphere####卓#卓
+RTK1#52#morning######朝#朝
+RTK1#53#only#####ただ#只#只
+RTK1#54#shellfish######貝#貝
+RTK1#55#upright######貞#貞
+RTK1#56#employee#####会社いん#員#員
+RTK1#57#see######見#見
+RTK1#58#newborn babe######児#児
+RTK1#59#beginning######元#元
+RTK1#60#page######頁#頁
+RTK1#61#stubborn######頑#頑
+RTK1#62#mediocre######凡#凡
+RTK1#63#defeat#####まける#負#負
+RTK1#64#ten thousand######万#万
+RTK1#65#phrase######句#句
+RTK1#66#texture######肌#肌
+RTK1#67#decameron######旬#旬
+RTK1 marked#68#ladle####<img src=""ladle.jpg"" />##勺#勺
+RTK1#69#bull's eye######的#的
+RTK1#70#neck######首#首
+RTK1#71#fish guts######乙#乙
+RTK1#72#riot######乱#乱
+RTK1#73#straightaway######<div>直</div>#<div>直</div>
+RTK1#74#tool######具#具
+RTK1#75#true######真#真
+RTK1#76#craft######工#工
+RTK1#77#left######左#左
+RTK1#78#right######右#右
+RTK1#79#possess#/pəˈzɛs/#have as belonging to one; own####有#有
+RTK1#80#bribe#/brʌɪb/#dishonestly persuade (someone) to act in one's favour by a gift of money or other inducement####賄#賄
+RTK1#81#tribute######貢#貢
+RTK1#82#paragraph######項#項
+RTK1#83#sword######刀#刀
+RTK1#84#blade######刃#刃
+RTK1#85#cut######切#切
+RTK1#86#seduce######召#召
+RTK1#88#rule######則#則
+RTK1#89#vice-######副#副
+RTK1#90#separate#####べつに#別#別
+RTK1#87#shining######昭#昭
+RTK1#91#street######丁#丁
+RTK1#92#village#####まち#町#町
+RTK1#93#can######可#可
+RTK1#94#place on the head######頂#頂
+RTK1#95#child#####男のこ#子#子
+RTK1#96#cavity##a decayed part of a tooth####孔#孔
+RTK1#97#complete######了#了
+RTK1#98#woman######女#女
+RTK1#99#fond######好#好
+RTK1#100#likeness######如#如
+RTK1#101#mama######母#母
+RTK1#102#pierce######貫#貫
+RTK1#103#elder brother######兄#兄
+RTK1#104#overcome######克#克
+RTK1#105#little######小#小
+RTK1#106#few######少#少
+RTK1#107#large######大#大
+RTK1#108#many######多#多
+RTK1#109#evening######夕#夕
+RTK1#110#eventide##the end of the day####汐#汐
+RTK1#111#outside######外#外
+RTK1#112#name######名#名
+RTK1#113#stone######石#石
+RTK1#114#resemblance#/rɪˈzɛmbl(ə)ns/#####肖#肖
+RTK1#115#nitrate######硝#硝
+RTK1#116#smash######砕#砕
+RTK1#117#sand######砂#砂
+RTK1#118#plane######削#削
+RTK1#119#ray######光#光
+RTK1#120#plump##(fat)####太#太
+RTK1#121#utensil#/juːˈtɛns(ə)l/#a tool, container, or other article, especially for household use#kitchen utensils are usually of earthenware and are made by the village potters###器#器
+RTK1#122#stinking######臭#臭
+RTK1#123#exquisite#/ɪkˈskwɪzɪt/#extremely beautiful and delicate#You're always beautiful, with you dark curls and beautiful eyes and exquisite skin###妙#妙
+RTK1#124#focus######省#省
+RTK1#125#thick######厚#厚
+RTK1#126#strange######奇#奇
+RTK1#127#stream######川#川
+RTK1#128#state######州#州
+RTK1#129#obey######順#順
+RTK1#130#water######水#水
+RTK1#131#icicle#/ˈʌɪsɪk(ə)l/#a hanging, tapering piece of ice formed by the freezing of dripping water#they loved making snow angels and licking icicles as though they were popsicles###氷#氷
+RTK1#132#eternity######永#永
+RTK1#133#spring#####いずみ#泉#泉
+RTK1#134#meadow##a piece of grassland, especially one used for hay##<img src=""JFP-WYO-154.jpg"" />##原#原
+RTK1#135#petition##request###ねがい#願#願
+RTK1#136#swim######泳#泳
+RTK1#137#marsh##an area of low-lying land which is flooded in wet seasons or at high tide, and typically remains waterlogged at all times####沼#沼
+RTK1#138#open sea######沖#沖
+RTK1#139#creek#/kriːk/#a narrow, shelterd waterway, especially an inlet in a shoreline or channel in a marsh#'To reach the village the soldiers had to cross a small tidal creek running gently into the ocean'#<img src=""download (3).jpg"" />##江#江
+RTK1#140#soup######汁#汁
+RTK1#142#source######源#源
+RTK1#141#tide#/tʌɪd/#the alternate rising and falling of the sea, usually twice in each lunar day at a particular place, due to the attraction of the moon and sun#'the changing patterns of the tides'#<img src=""tide.jpg"" />##潮#潮
+RTK1#143#lively######活#活
+RTK1#144#extinguish######消#消
+RTK1#145#situation#####実＿（じっきょう）#況#況
+RTK1#146#river######河#河
+RTK1#147#overnight######泊#泊
+RTK1#148#lake######湖#湖
+RTK1#149#fathom##a unit of length equal to six feet (1.8 metres), chiefly used in reference to the depth of water####測#測</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">divide shellfish on water to create a fixed measurement unit
+RTK1#150#soil######土#土
+RTK1#151#spit##eject saliva forcefully from one's mouth####吐#吐
+RTK1#153#cape######埼#埼
+RTK1#155#squared jewel######圭#圭
+RTK1#152#pressure######<div>圧</div>#<div>圧</div>
+RTK1#154#hedge######垣#垣
+RTK1#156#seal######封#封
+RTK1#157#horizon######涯#涯
+RTK1#158#Buddhist temple######寺#寺
+RTK1#159#time######時#時
+RTK1#160#level######均#均
+RTK1#161#fire######火#火
+RTK1#162#inflammation#/ɪnfləˈmeɪʃ(ə)n/#a localized physical condition in which part of the body becomes reddened, swollen, hot and often painful, especially as a reaction to injury or infection####炎#炎
+RTK1#163#anxiety######煩#煩
+RTK1#164#thin######淡#淡
+RTK1#165#lamp####<img src=""street_lamp.jpg"" />##灯#灯
+RTK1#166#farm######畑#畑
+RTK1#167#disaster######災#災
+RTK1#168#ashes######灰#灰
+RTK1#169#spot######点#点</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the fortune-telling spot is burned
+RTK1#170#illuminate#/ɪˈl(j)uːmɪneɪt/#####照#照
+RTK1#171#fish######魚#魚
+RTK1#172#fishing######漁#漁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fishing is the action of obtaining fish from water
+RTK1#173#ri######里#里
+RTK1#174#black######黒#黒
+RTK1#175#black ink######墨#墨
+RTK1#176#carp####<img src=""carp.jpg"" />##鯉#鯉
+RTK1#177#quantity######量#量
+RTK1#178#rin######厘#厘
+RTK1#179#bury######埋#埋
+RTK1#180#same######同#同
+RTK1#181#den######<div>洞</div>#<div>洞</div>
+RTK1#182#trunk######胴#胴
+RTK1#183#yonder#/ˈjɒndə/#the far distance##<img src=""download (1).jpg"" />##向#向
+RTK1#184#esteem#/ɛˈstiːm/#respect and admiration#he was held in high esteem by colleagues#<img src=""new-self-esteem-why-do-i-feel-worthless-1.jpg"" />##尚#尚
+RTK1#185#character######<div>字</div>#<div>字</div>
+RTK1#186#guard#####まもり#守#守
+RTK1#187#perfect######完#完
+RTK1#188#proclaim#/prəˈkleɪm/#announce officially or publicly#'the government's chief scientific adviser proclaimed that the epidemic was under control'###宣#宣
+RTK1#189#wee hours####<img src=""9204.wee-hours.jpg"" />##宵#宵
+RTK1#190#relax#####_心(あんしん)#安#安
+RTK1#191#banquet#/ˈbaŋkwɪt/#an elaborate and formal evening meal for many people##<img src=""banquet.jpg"" />##宴#宴
+RTK1#192#draw near######寄#寄
+RTK1#193#wealth#####_士山(ふじさん)#富#富
+RTK1#194#savings######貯#貯
+RTK1#195#tree######木#木
+RTK1#196#grove#/ɡrəʊv/#a small wood or other group of trees#we walked along the beach at a quick pace and soon reached the grove###林#林
+RTK1#197#forest######森#森
+RTK1#198#Japanese Judas-tree######桂#桂
+RTK1#199#oak######柏#柏
+RTK1#200#frame######枠#枠
+RTK1#201#treetops##the uppermost part of a tree####梢#梢
+RTK1#202#shelf######棚#棚</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">wooden shelf are tree buddies
+RTK1#203#apricot#/ˈeɪprɪkɒt/#a juicy, soft fruit of an orange-yellow colour resembling a small peach##<img src=""apricot.png"" />##杏#杏
+RTK1#204#paulownia#/pɔːˈlɒvnɪə/#a small SE Asian tree with heart-shaped leaves and fragrent lilac flowers##<img src=""paulownia.jpg"" />##桐#桐
+RTK1#205#plant######植#植
+RTK1#206#wither######枯#枯
+RTK1#207#crude#/kruːd/#in a natural or raw state; not yet processed or refined##<img src=""main-qimg-eb0a691a4c7b6bd8a5fe3d1a9b8c0bb7-c.jpg"" />##朴#朴
+RTK1#208#town######村#村
+RTK1#209#inter-######相#相
+RTK1#210#desk######机#机
+RTK1#211#book######本#本
+RTK1#212#tag######札#札
+RTK1#213#calendar######暦#暦
+RTK1#214#plan######案#案</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if you have a plan, you can relax on the tree
+RTK1#215#parch#/pɑːtʃ/#make or become dry through intense heat#'a piece of grassland parched by the sun'###燥#燥
+RTK1#216#not yet######未#未
+RTK1#217#extremity######末#末
+RTK1#218#splash######沫#沫
+RTK1#219#flavor######味#味
+RTK1#220#younger sister######妹#妹
+RTK1#221#vermilion######朱#朱
+RTK1#222#stocks######株#株</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">red tree is full in stock
+RTK1#223#young######若#若
+RTK1#224#grass######草#草
+RTK1#225#suffering#####くるしい#苦#苦
+RTK1#226#tolerant#/ˈtɒl(ə)r(ə)nt/#showing willingness to allow the existence of opinions or behaviour that does not necessarily agree with#<span style=""color: rgb(255, 255, 255)"">- Each breakthrough will lead the way toward a new culture that is less tolerant of corruption.</span>###寛#寛
+RTK1#227#dilute######薄#薄
+RTK1#228#leaf######葉#葉
+RTK1#229#imitation##the action of using someone or something as a model####模#模
+RTK1#230#vague#/veɪɡ/#of uncertain, indefinite, or unclear character or meaning#'I have vague memories of shuffling up the street to the corner shop in them, only to discorver that it was closed.'###漠#漠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">vague ... water ... graveyard
+RTK1#231#grave######墓#墓
+RTK1#232#livelihood######暮#暮
+RTK1#233#membrane####<img src=""download.jpg"" />##膜#膜
+RTK1#234#seedling#/ˈsiːdlɪŋ/#a young plant, especially one raised from seed and not from a cutting####苗#苗
+RTK1#235#portent#/ˈpɔːtɛnt/#a sign or warning that a momentous of calamitous event is likely to happen##<span style=""color: rgb(255, 255, 255)""><img src=""images.jpg"" /></span>##兆#兆
+RTK1#236#peach tree######桃#桃
+RTK1#237#stare######眺#眺</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">look out for portent
+RTK1#238#dog######犬#犬
+RTK1#239#status quo#/ˈsteɪtəs ˈkwəʊ/#the existing state of affairs, especially regarding social or political issues#'they have a vested interest in maintaining the status quo'###状#状
+RTK1#240#silence#####だまって#黙#黙
+RTK1#241#sort of thing######然#然
+RTK1#242#reed####<img src=""reed-bed-bulrushes.jpg"" />##荻#荻</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">reed is easily burned by a dog
+RTK1#243#hunt######狩#狩</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">dog can track prey from its home
+RTK1#244#cat######猫#猫
+RTK1#245#cow######牛#牛
+RTK1#246#special#####_別(とくべつ)#特#特</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a buddhist temple for a cow is special
+RTK1#247#revelation#/rɛvəˈleɪʃ(ə)n/#disclosing####告#告</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">talk about cow's secret
+RTK1#248#before######先#先
+RTK1#249#wash######洗#洗
+RTK1#250#jammed in######介#介
+RTK1#251#world######界#界
+RTK1#252#tea######茶#茶
+RTK1#253#fit######合#合
+RTK1#254#pagoda#/pəˈɡəʊdə/#####塔#塔</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">pagoda ... soil ... flower ... fit
+RTK1#255#king######王#王
+RTK1#256#jewel#/ˈdʒuːəl/#####玉#玉
+RTK1#257#treasure######宝#宝
+RTK1#258#pearl######珠#珠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the king wants to have a scarlet pearl
+RTK1#259#present######現#現
+RTK1#260#lunatic#/ˈluːnətɪk/#a person who is mentally ill (not in technical use)#'Surely many people who try to attempt suicide are emotionally not entirely unstable - yet they're generally not fools or lunatics'###狂#狂</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a king acts like a dog is lunatic
+RTK1#261#emperor######皇#皇
+RTK1#262#display######呈#呈
+RTK1#263#whole######全#全
+RTK1#264#plug######栓#栓</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">king's tree is used to make plug shell
+RTK1#265#logic#/ˈlɒdʒɪk/####_由(りゆう)#理#理
+RTK1#266#lord######主#主
+RTK1#267#pour######注#注</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">pour water on the lord
+RTK1#268#pillar######柱#柱</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the lord's pillar is made from wood
+RTK1#269#gold######金#金
+RTK1#270#pig iron####<img src=""NICKEL-PIG-IRON.jpg"" />##銑#銑</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">pig iron is metal before being shaped
+RTK1#271#bowl#/bəʊl/#a round, deep dish or basin used for food or liquid#'a mixing bowl'###鉢#鉢</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">golden book is lighter than a bowl
+RTK1#272#copper######銅#銅
+RTK1#273#angling####<img src=""images (1).jpg"" />#つり#釣#釣</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">golden ladle are rewarded for the best angler
+RTK1#274#needle######針#針</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">gold is compressed ten times
+RTK1#275#inscription####<img src=""225px-BehistunInscriptiondetail.jpg"" />##銘#銘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">signature is a golden name
+RTK1#276#tranquilize#/ˈtraŋkwɪlʌɪz/#<div>(of a drug) have a calming or sedative effect on</div>##<img src=""C06AF-tranquilize.jpg"" />##鎮#鎮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">calming requires golden truth
+RTK1#277#road-way######道#道
+RTK1#278#guidance######導#導
+RTK1#279#crossing######辻#辻
+RTK1#280#swift#/swɪft/#happening quickly or promptlyi####迅#迅</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">walking at ten times faster speed is ...
+RTK1#281#create######造#造</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">to take the road to revelation you need to create something
+RTK1#282#urge######迫#迫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">it's is urgent to go for a white walk
+RTK1#283#escape#####にげる#逃#逃</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">walking through endless signs
+RTK1#284#environs######辺#辺
+RTK1#285#patrol####<img src=""Prince_Georges_County_Motorcycle_Patrol.jpg"" />##巡#巡
+RTK1#286#car######車#車
+RTK1#287#take along######<div>連</div>#<div>連</div></span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a car can take along lots of stuff
+RTK1#288#rut<div><br /></div>####<img src=""download (2).jpg"" />##軌#軌
+RTK1#289#transport######輸#輸
+RTK1#290#in front######前#前
+RTK1#291#each######各#各</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">each winter people's mouths ...
+RTK1#292#status######格#格</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">each tree has its own status
+RTK1#293#abbreviation######略#略</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">each field has a abbreviation
+RTK1#294#guest######客#客
+RTK1#295#forehead######額#額</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a guest slips her forehead on a page
+RTK1#296#summer######夏#夏
+RTK1#297#dispose######処#処</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">desk will be disposed in the winter
+RTK1#298#twig####<img src=""twig-taper-candles-5.jpg"" />##条#条</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">winter tree are full of twigs
+RTK1#299#fall######落#落</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">each flower needs water every day or it will fall down
+RTK1#300#superfluous<br>##unnecessary, especially through being more than enough####冗#冗
+RTK1#301#army######軍#軍
+RTK1#302#radiance####<img src=""download (4).jpg"" />##輝#輝</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">lighting army is emitting radiance
+RTK1#303#carry######運#運</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the army always has to carry something while walking
+RTK1#304#crown######冠#冠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the crown is the cover measured at the begining stage of production
+RTK1#305#dream######夢#夢
+RTK1#306#pit######坑#坑
+RTK1#307#tall######高#高
+RTK1#308#receive######享#享
+RTK1#309#cram school######塾#塾</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cram school receives round package from earth
+RTK1#310#mellow##a state, atmosphere, or mood of ease and gentle relaxation####熟#熟</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">able to receive fire ball is mellow
+RTK1#311#pavilion#/pəˈvɪljən/#a summer house or other decorative building used as a shelter in a park or large garden##<img src=""qnc79w4y4dlt3ny8.jpg"" />##亭#亭</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the pavilion on the cover street is the tallest
+RTK1#312#capital######京#京
+RTK1#313#refreshing######涼#涼</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">living at capital on water is refreshing
+RTK1#314#scenery######景#景</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the scenery of the sun and capital
+RTK1#315#whale######鯨#鯨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">whale is a capital-size fish
+RTK1#316#cottage#/ˈkɒtɪdʒ/#a small house, typically one in the country#'a holiday cottage'#<img src=""pier-cottage-loch-fyne-argyll-side-garden.jpg"" />##舎#舎
+RTK1#317#circumference####<img src=""circumference.jpg"" />##周#周
+RTK1#318#week######週#週</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a lap around the road takes one week
+RTK1#319#gentleman######士#士
+RTK1#320#good luck######吉#吉
+RTK1#321#robust######壮#壮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a robust gentleman is ...
+RTK1#322#villa######荘#荘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the flowers in the villa are quite robust
+RTK1#323#sell######売#売</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a gentleman sells his superfluous supply
+RTK1#324#study######学#学
+RTK1#325#memorize######覚#覚</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cover your eyes to recall memorized words
+RTK1#326#flourish######栄#栄</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a flourish tree is covered carefully
+RTK1#327#write######書#書
+RTK1#328#haven#/ˈheɪv(ə)n/#a place of safety or refuge####津#津
+RTK1#329#breed######牧#牧
+RTK1#330#aggression######攻#攻
+RTK1#331#failure######敗#敗</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">trying to strike shellfish is failure
+RTK1#332#sheet of######枚#枚
+RTK1#333#happenstance##coincidence####故#故
+RTK1#334#awe (respect)#####けいご#敬#敬
+RTK1#335#say######言#言
+RTK1#336#admonish##reprimand firmly<div>* reprimand (a formal expression of disapproval)</div>##<img src=""download.gif"" />##警#警</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the Ten Commandments has awesome words
+RTK1#337#plot######計#計
+RTK1#338#prison######獄#獄</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">prisoners are treated like dogs
+RTK1#339#revise#/rɪˈvʌɪz/#examine and make corrections or alternations to (written or printed matter)####訂#訂
+RTK1#340#chastise#<div>/tʃaˈstʌɪz/</div>#rebuke or reprimand severely#'he chastised his colleagues for their laziness'###討#討
+RTK1#341#instruction######訓#訓
+RTK1#342#imperial edict####<img src=""9b9caa1ae69b1809c7fe110546e5c30a.jpg"" />##詔#詔</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">imperial edict contains seductive words
+RTK1#343#packed######詰#詰</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">say good luck is packed
+RTK1#344#tale######話#話
+RTK1#345#recitation######詠#詠
+RTK1#346#poem######詩#詩</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">poems are likely to be write by Buddhist monks
+RTK1#347#word######語#語
+RTK1#348#read######読#読</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">everything you read is trying to sell you something
+RTK1#349#tune#/tjuːn/#a melody, especially one which characterizes a certain piece of music#'she left the theatre humming a cheerful tune'###調#調
+RTK1#350#discuss######談#談
+RTK1#351#consent#/kənˈsɛnt/#permission for something to happen or agreement to do something#no change may be made without the consent of all the partners###諾#諾</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the young needs consent to speak
+RTK1#352#rebuke####<img src=""rebuke-demonic-spirits.jpg"" />##諭#諭</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">SAY you will TRANSPORT me WITHOUT A CAR and i will REBUKE you
+RTK1#353#style##<div><br /></div>####式#式
+RTK1#354#test######試#試</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">we must test your speaking style
+RTK1#355#II (two) (used in legal document)######弐#弐
+RTK1#356#range######域#域
+RTK1#357#burglar#/ˈbəːɡlə/#a person who commits burglary###海ぞく#賊#賊</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">burglar steals money using ten spears
+RTK1#358#plantation##<div><br /></div>##<img src=""landscape-1054474_960_720.jpg"" />##栽#栽
+RTK1#359#load######載#載</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">load ten sprears in your car
+RTK1#360#overgrown######茂#茂
+RTK1#361#turn into######成#成
+RTK1#362#castle######城#城</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">soil turns into castle
+RTK1#363#sincerity######誠#誠
+RTK1#364#intimidate##to make timid, fill with fear####威#威
+RTK1#365#destroy######滅#滅
+RTK1#366#dwindle####<img src=""dwindle.jpg"" />##減#減
+RTK1#367#scaffold####<img src=""double-width-industrial-scaffold-tower.jpg"" />##桟#桟
+RTK1#368#coin######銭#銭
+RTK1#369#shallow######浅#浅
+RTK1#370#stop######止#止
+RTK1#371#walk######歩#歩
+RTK1#372#ford#/fɔːd/#a shallow place in a river o stream allowing one to walk or drive across##<img src=""Rawney_Ford_(geograph_4388083).jpg"" />##渉#渉
+RTK1#373#repeatedly######頻#頻</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the pen walks on page repeatedly
+RTK1#374#agreement######肯#肯
+RTK1#375#undertake####<img src=""maxresdefault (1).jpg"" />##企#企
+RTK1#376#curriculum######歴#歴
+RTK1#377#warrior######武#武
+RTK1#378#levy#/ˈlɛvi/#impose (a tax, fee, or fine)####賦#賦</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">tax warriors have the power to levy tax money
+RTK1#379#correct#####せい解#正#正
+RTK1#380#evidence######証#証
+RTK1#381#politics######政#政</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">politics strike the truth
+RTK1#382#determine######定#定
+RTK1#383#lock######錠#錠
+RTK1#384#run#####はしる#走#走
+RTK1#385#transcend#/trɑːnˈsɛnd/#be or go beyond the range of limits of (a field of activity or conceptual sphere)#'this was an issue transcending party politics'###超#超</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">run till transcending seduction
+RTK1#386#proceed##begin a course of action####赴#赴
+RTK1#387#surpass######越#越</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">keep running till surpass [warrior]
+RTK1#388#just so##arranged or done very neatly and carefully#'the dance floor in particular took a lot of sweat to keep in form for the dancers but it was always kept just so'###是#是</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">someone spends an entire day to make things correct, because they want the job done ""just so""
+RTK1#389#topic######題#題
+RTK1#390#dike##river bank####堤#堤
+RTK1#391#build######建#建</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">an artist stretching her brush out to build her masterpiece
+RTK1#392#prolong##extend the duration of####延#延</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you can prolong your life, by doing stretch exercises in the correct way
+RTK1#393#nativity##the occasion of a person's birth###_生日(たんじょうび）#誕#誕
+RTK1#394#cornerstone####<img src=""download (5).jpg"" />##礎#礎</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cornerstone is a stone put in correct grove
+RTK1#395#bridegroom#/ˈbrʌɪdɡruːm/#a man on his wedding day or just before and after the event####婿#婿</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the couple have to choose the right place for the honeymoon
+RTK1#396#garment######衣#衣
+RTK1#397#tailor######裁#裁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">tailor makes ten garment using her spear
+RTK1#398#attire#/əˈtʌɪə/#clothes, especially fine or formal ones#'the usually sober attire of British security service personnel'#<img src=""57c5ea5709d29358008b53f5.jpg"" />##装#装</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">attire is a robust garment
+RTK1#399#back######裏#裏</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the back of the lid is made from a ri of clothes
+RTK1#400#demolition#/dɛməˈlɪʃn/#the action or process of demolishing or being demolished####壊#壊</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this dirt-garment has been demolished ten times
+RTK1#401#pathetic######哀#哀
+RTK1#402#distant######遠#遠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">walking for a long distant while wearing a long kimono is tiring
+RTK1#403#monkey######猿#猿
+RTK1#404#first time#####はじめまして#初#初
+RTK1#405#linen#/ˈlɪnɪn/###<img src=""250px-Handkerchief.jpg"" />##布#布</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">linen is used to made narwhal's towel
+RTK1#406#sail######帆#帆</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you just need a mediocre towel to go on a sail
+RTK1#407#hanging scroll######幅#幅
+RTK1#408#cap#####＿子（ぼうし）#帽#帽</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">wear a cap with a towel to reduce the risk of injury
+RTK1#409#curtain######幕#幕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this curtain must not be hanged below the towel
+RTK1#410#canopy####<img src=""Classic_10x10_Navy_blue.jpg"" />##幌#幌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this canopy uses a towel to block sun ray
+RTK1#411#brocade######錦#錦</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">brocade is premium white towel
+RTK1#412#market#/ˈmɑːkɪt/#a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities####市#市</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">market sells a lot of lid and towels
+RTK1#413#elder sister######姉#姉
+RTK1#414#lungs######肺#肺</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">lungs are sold&nbsp;monthly&nbsp;at the market
+RTK1#415#sash####<img src=""nr001-3.jpg"" />#おび#帯#帯
+RTK1#416#stagnate#/ˈstaɡneɪt/#####滞#滞</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sash stagnates water
+RTK1#417#thorn######刺#刺
+RTK1#418#system######制#制
+RTK1#419#made in...######製#製</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a system of garment is made in 中国
+RTK1#420#revolve#/rɪˈvɒlv/#move in a circle on a central axis##<img src=""revolve.jpg"" />##転#転</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the revolving wheels of the car kicked up rising clouds of dust
+RTK1#421#technique######芸#芸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you need awesome technique to make grass become rising clould
+RTK1#422#rain######雨#雨
+RTK1#423#cloud######雲#雲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cloud rain usually needs rising cloud
+RTK1#424#cloudy weather######曇#曇
+RTK1#425#thunder######雷#雷</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">thunder is on the field on rain weather
+RTK1#426#frost######霜#霜</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">inter-rain becomes frost
+RTK1#427#winter######冬#冬
+RTK1#428#heavens#/ˈhɛv(ə)n/#####天#天
+RTK1#429#bridge######<div>橋</div>#<div>橋</div></span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this bridge is made from a high tree
+RTK1#430#attractive######嬌#嬌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">atractive woman usually high and mighty
+RTK1#431#stand up######立#立
+RTK1#432#cry#####なきゲ#泣#泣</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">tear usually comes from standing and crying
+RTK1#433#badge######章#章</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">If you stand up earlier than everyone else you'll earn a badge
+RTK1#434#vie#/vʌɪ/#compete eagerly with someone in order to do or achieve something#the final round was a battle of nerves as the teams vied for top honours###競#競</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">two teenagers stand up to each other in order to vie for attention
+RTK1#435#sovereign#/ˈsɒvrɪn/#<div>a supreme ruler, especially a monarch</div>##<img src=""sovereign.png"" />##帝#帝</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a sovereign always has someone put a towel on his back while standing
+RTK1#436#juvenile######童#童</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the juvenile hacker standing on top of a computer
+RTK1#437#pupil#/ˈpjuːp(ə)l/#a person who is taught by another, especially a schoolchild or student in relation to a teacher####瞳#瞳</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a pupil is a juvenile that has an eye on her master
+RTK1#438#bell######鐘#鐘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">our teacher, with her golden bell, called the juvenile students to class
+RTK1#439#make a deal######商#商
+RTK1#440#legitimate wife######嫡#嫡
+RTK1#441#suitable######適#適
+RTK1#442#drip######滴#滴
+RTK1#443#enemy#####てき#敵#敵
+RTK1#444#spoon######匕#匕
+RTK1#445#north#####きた#北#北
+RTK1#446#stature#/ˈstatʃə/#a person's natural height#'she was small in stature'###背#背
+RTK1#447#compare######比#比
+RTK1#448#descendants######昆#昆</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">descendants compare the sun
+RTK1#449#all#####みんな#皆#皆
+RTK1#450#mix######<div>混</div>#<div>混</div>
+RTK1#451#thirst######渇#渇</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if you run out of water, you will have a siesta because of thirst
+RTK1#452#audience######謁#謁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the ""pep"" talk was so boring, the audience took a siesta
+RTK1#453#brown######褐#褐</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">brown garment wearers often have siesta
+RTK1#454#hoarse#/hɔːs/#(of a person's voice) sounding rough and harsh, typically as the result of a sore throat or of shouting#speaking at an abnormal or uncomfortable pitch can lead to hoarse voice###喝#喝
+RTK1#455#delicious######旨#旨
+RTK1#456#fat######脂#脂</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the fat moon cake is delicious
+RTK1#457#I##one (in documents)####壱#壱</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">there is one gentleman covered by a spoon
+RTK1#458#every######<div>毎</div>#<div>毎</div>
+RTK1#459#cleverness######敏#敏</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every strike is cleverness
+RTK1#460#plum####<img src=""plum.jpg"" />##梅#梅</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every tree is not all plum
+RTK1#461#sea######海#海</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every water on the world mostly from the sea
+RTK1#462#beg######乞#乞
+RTK1#463#drought######乾#乾</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">ten suns which make land drought beg Hou Yi for spare their life
+RTK1#464#abdomen##the part of the body of a vertebrate containing the digestive and reproductive organs; the belly####腹#腹</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your abdomen will attract bug at night in the summer
+RTK1#465#duplicate######複#複</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">duplicate ... garment ... summer
+RTK1#466#lack######<div>欠</div>#<div>欠</div>
+RTK1#467#blow######吹#吹</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your mouth lacks air when you blow
+RTK1#468#cook######<div>炊</div>#<div>炊</div>
+RTK1#469#song######歌#歌
+RTK1#470#soft######軟#軟
+RTK1#471#next#####つぎ#次#次
+RTK1#472#briar#/brʌɪə/#any of a number of prickly scrambling shrubs, especially a wild rose##<img src=""briar.jpg"" />##茨#茨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every briar always next to each others
+RTK1#473#assets##resources####資#資
+RTK1#474#figure######姿#姿</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">next to the woman is her shadow, showing just her figure
+RTK1#475#consult with######諮#諮
+RTK1#476#compensation#/kɒmpɛnˈseɪʃ(ə)n/#####賠#賠
+RTK1#477#cultivate######培#培
+RTK1#478#divide######剖#剖
+RTK1#479#sound######音#音
+RTK1#480#darkness######暗#暗
+RTK1#481#rhyme#/rʌɪm/#(of a word, syllable, or line) have or end with a sound that corresponds to another####韻#韻</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">tune is employed to work on rhyme
+RTK1#482#discriminating##tell the difference####識#識</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the sound of spears are hard to discriminate
+RTK1#483#mirror######鏡#鏡</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">standing in front of a golden mirror to see yourself
+RTK1#484#boundary######境#境</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the soid stands up to create a boundary to prevent your vision
+RTK1#485#deceased######亡#亡
+RTK1 marked#486#blind######盲#盲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">deceased people also are blind
+RTK1#487#delusion######妄#妄</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">people ofter have delusion about a deceased woman
+RTK1#488#laid waste######荒#荒</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">deceased corpse often polutes nearby river and grass
+RTK1#489#ambition#####のぞみ#望#望</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the king in his deceased month often has a lot of ambition
+RTK1#490#direction######方#方
+RTK1#491#disturb######妨#妨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">woman often disturbs people's direction
+RTK1#492#boy######坊#坊</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a boy is the one has solid direction
+RTK1#493#perfumed######芳#芳
+RTK1#494#obese#/ə(ʊ)ˈbiːs/#grossly fat####肪#肪</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the obese moon heads toward that direction
+RTK1#495#call on##pay a visit to (someone)#'he's planning to call on Katherine today'###訪#訪</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a friend say that she will call on you this direction
+RTK1#496#set free######放#放</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">to set free yourself, you need to strike in every direction
+RTK1#497#violent#####はげしい#激#激</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you violent strike all direction on the white water
+RTK1#498#undress######脱#脱</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the moon undresses her brother
+RTK1#499#explanation######説#説
+RTK1#500#pointed######鋭#鋭
+RTK1#501#formerly######曽#曽
+RTK1#502#increase######増#増</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">we need to increase the formerly of the soil
+RTK1#503#presents######贈#贈</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">money is used for former presents
+RTK1#504#east######東#東
+RTK1#505#ridgepole####<img src=""Lodgepole-Tent-Frame.jpg"" />##棟#棟</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">ridgepole is made from easten wood
+RTK1#506#frozen#####こおる#凍#凍
+RTK1#507#pregnancy#/ˈprɛɡnənsi/#the condition or period of being pregnant###にん娠#妊#妊
+RTK1#508#courts######廷#廷
+RTK1#509#dye######染#染</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you can create nine types of dye just from water and tree
+RTK1#510#burn######燃#燃
+RTK1#511#V.I.P######賓#賓
+RTK1#512#year-end######歳#歳
+RTK1#513#prefecture#/ˈpriːfɛktjʊə/#a district under the authority of a perfect or governor#'The Okinawa prefecture was in fact under direct U.S. military administration from 1945 to 1972, when it was handed over to the Japanese.'###県#県
+RTK1#514#horse chestnut####<img src=""HorseChestnut_THUMBNAIL.jpg"" />##栃#栃
+RTK1#515#ground#####_下(ちか)#地#地
+RTK1#516#pond####<img src=""maxresdefault (2).jpg"" />##池#池</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this pond's water are infested with scorpions
+RTK1#517#insect######虫#虫
+RTK1#518#lightning bug######蛍#蛍
+RTK1#519#snake######蛇#蛇
+RTK1#520#rainbow######虹#虹
+RTK1#521#butterfly######蝶#蝶</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">insect that spends their generation on tree is butterfly
+RTK1#522#single#####どく習#独#独</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a single guy is a wild dog who bugs many women
+RTK1#523#silkworm######蚕#蚕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">silkworm is an insect from the heavens
+RTK1#524#wind######風#風</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the wind ususally carries insects around
+RTK1#525#self######己#己
+RTK1#526#rouse#/raʊz/#cause to stop sleeping#she was roused from a deep sleep by a hand on her shoulder##おきる#起#起</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">self-running will rouse your family
+RTK1#527#queen######妃#妃</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">woman always thinks herself as a queen
+RTK1#528#reformation##the action or process of reforming an institution or practice####改#改
+RTK1#529#scribe##a person who copies out documents, especially one employed to do this before printing was invented###きおく#記#記</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">scribe is the person who talk to himself
+RTK1#530#wrap######包#包
+RTK1#531#placenta#/pləˈsɛntə/#a falttened circular organ in the uterus of pregnant eutherian mammals, nourishing and maintaining the fetus through the umbilical cord.####胞#胞</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">part of the body is wrapped by placenta
+RTK1#532#cannon######砲#砲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">stone cannon balls are wrapped inside the cannon
+RTK1#533#bubble######泡#泡</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">bubble is created by wrapped water around the air
+RTK1#534#tortoise#/ˈtɔːtəs/#a slow-moving typically herbivorous land reptile of warm climates, enclosed in a scaly or leathery domed shell into which can retract its head and thick legs####亀#亀
+RTK1#535#electricity######電#電
+RTK1#536#dragon######竜#竜
+RTK1#537#waterfall#####たき#滝#滝
+RTK1#538#pork######豚#豚
+RTK1#539#pursue######<div>逐</div>#<div>逐</div></span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">to pursue a pig, you need to run after it
+RTK1#540#consummate##make (a marriage or relationship) complete by having sexual intercourse####遂#遂
+RTK1#541#house#####いえ#家#家
+RTK1#542#marry into#####およめさん#嫁#嫁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">woman will marry into a household
+RTK1#543#overpowering######豪#豪
+RTK1#544#intestines#/ɪnˈtɛstɪns/#the lower part of the alimentary canal from the end of the stomach to the anus####腸#腸
+RTK1#545#location#####_所（ばしょ）#場#場
+RTK1#546#hot water######湯#湯
+RTK1#547#sheep######羊#羊
+RTK1#548#beauty#####うつくしい#美#美</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the bigger sheep the more beautiful
+RTK1#549#ocean######洋#洋</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a bunch of sheep swimming on the ocean
+RTK1#550#detailed######詳#詳</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sheep can tell detailed information
+RTK1#551#fresh#/frɛʃ/#####鮮#鮮
+RTK1#552#accomplished######達#達</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you have to accomplished your sheep while walking on a dirt road
+RTK1#553#envious#/ˈɛnvɪəs/#feeling or showing envy#'I'm envious of their happiness'###羨#羨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the next sheep always feel envious with the sheep next to it
+RTK1#554#distinction######差#差</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every craft sheep is distinct
+RTK1#555#don######着#着</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">one eye sheep is the don of the sheep-gangster
+RTK1#556#solely######唯#唯</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">bird has to feed solely by mouth
+RTK1#557#char######焦#焦</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this bird is burn into char
+RTK1#558#reef#<div>/riːf/</div>#a ridge of jagged rock, coral, or sand just above or below the surface of the sea##<img src=""reef.jpg"" />##礁#礁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">reef is stone char
+RTK1#559#gather######集#集</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every birds gather at the tree
+RTK1#560#quasi-######准#准
+RTK1#561#advance######進#進
+RTK1#562#miscellaneous#/ˌmɪsəˈleɪnɪəs/#####雑#雑
+RTK1#563#female#####めす#雌#雌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">female bird is unstoppable
+RTK1#564#semi-######準#準</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">ten semi-birds flying on the water
+RTK1#565#stirred up####<img src=""stir-up.jpg"" />##奮#奮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the huge bird on the field is stirred up
+RTK1#566#rob######奪#奪</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if you see a bird measuring a large house, it is a robber
+RTK1#567#assurance#/əˈʃʊər(ə)ns/#Insurance, specifically life insurance###かく認#確#確</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if birds build a stone house, they'll need to buy the assurance
+RTK1#568#noon######午#午
+RTK1#569#permit#####ゆるす#許#許</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you only are permitted to speak at noon
+RTK1#570#delight######歓#歓</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">at noon, bird no longer delights
+RTK1#571#authority#/ɔːˈθɒrɪti/#the power or right to give orders, make decisions, and enforce obedience#he had absolute authority over his subordinates###権#権
+RTK1#572#outlook##a person's point of view or general attitude to life####観#観
+RTK1#573#feathers######羽#羽
+RTK1#574#learn#####自しゅう#習#習</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you have to learn about white feathers
+RTK1#575#the following######翌#翌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the following standing pose looks like feathers
+RTK1#576#weekday######曜#曜</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">during weekday, bird's feathers are full in the sun
+RTK1#577#laundry#/ˈlɔːndri/#####濯#濯</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you have to do the laundry, using water to wash bird's leathers
+RTK1#578#sayeth######曰#曰
+RTK1#579#quandary#/ˈkwɒnd(ə)ri/#a state of perplexity or uncertainty over what to do in a difficult situation###こまる#困#困
+RTK1#580#harden#####かたい#固#固
+RTK1#581#country######国#国
+RTK1#582#group######団#団</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">group is measured in a mouth
+RTK1#583#cause######因#因
+RTK1#584#matrimony#/ˈmatrɪməni/#the state of being married; marriage#'For better or worse, not everyone is quite so calculating in their approach to matrimony'###姻#姻
+RTK1#585#park######園#園
+RTK1#586#-times#####次かい#回#回
+RTK1#587#podium##A small platform on which a person may stand to be seen by an audience, as when making a speech or conducting an orchestra.####壇#壇</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">The podium is made from soil and take some times. It's complete at nightbreak and it has a lid on top of it.
+RTK1#588#store#####みせ#店#店</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the house on the top of the cliff looks like a fortune-telling store.
+RTK1#589#warehouse######庫#庫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the warehouse on top of the cliff has a lot of cars
+RTK1#590#courtyard<div><br /></div>##an unroofed area that is completely or partially enclosed by walls or buildings, typically one forming part of the castle or large house##<img src=""2212501_tocqu_img_0012_1_0.jpg"" />##庭#庭</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the court's courtyard is under the cliff
+RTK1#591#government office######庁#庁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the government office is located on the street in a building on the cliff
+RTK1#592#bed######床#床</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your wooden bed is made by a kind elder who lives on the cliff
+RTK1#593#hemp#/hɛmp/#the cannabis plant, especially when grown for fibre##<img src=""gatewood_hero.jpg"" />##麻#麻</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">hemp usually grows in grove
+RTK1#594#grind##reduce (something) to small particles or powder by crushing it####磨#磨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you have to use stone to grind hemp
+RTK1#595#heart######心#心
+RTK1#596#forget#####わすれない#忘#忘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a deceased heart will forget about everything
+RTK1#597#endure##suffer (something painful or difficult) patiently####忍#忍</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your heart can endure blade
+RTK1#598#acknowledge##recognize the importance or quality of####認#認</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">after the endurance course, the master say that you have been acknowledge
+RTK1#599#mourning#/ˈmɔːnɪŋ/#the expression of sorrow for someone's death####忌#忌
+RTK1#600#intention##an aim or plan####志#志</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a gentleman's heart always full of intention
+RTK1#601#document######誌#誌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the document says the intention of the writer
+RTK1#602#loyalty##the quality of being loyal####忠#忠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">loyalty comes from inside your heart
+RTK1#603#shish kebab##a dish of pieces of marinated meat and vegetables cooked and served on skewers##<img src=""200106-r-xl-turkish-shish-kebabs-with-garlicky-tahini.jpg"" />##串#串
+RTK1#604#afflicted#/əˈflɪkt/#(of a problem or illness) cause pain or trouble to; affect adversely####患#患</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if you eat shish kebab too much, your heart will be afflicted illness
+RTK1#605#think#####おもう#思#思</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">farmers have to think about how to make the field's heart becomes healthier
+RTK1#606#grace##courteous good will####恩#恩</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if your heart doesn't have any serious causes then you have a good grace
+RTK1#607#apply######応#応</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if you want to rent the house on the cliff, you wil have to apply your heart in it
+RTK1#608#idea######意#意</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">if you stand on the top of the sun then many ideas will come from your heart
+RTK1#609#concept##an abstract idea####想#想</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the inter-heart is a concept of the future
+RTK1#610#breath##the air taken into or expelled from the lungs####息#息</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">breathing can be control by your heart and eyes
+RTK1#611#recess##a break between school classed####憩#憩</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">during recess, you can breath with your tongue out of mouth
+RTK1#612#favor##approval, support, or liking for someone or something####恵#恵</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">doing a favor on the field will need to put a heart on it
+RTK1#613#fear##an unpleasant emotion caused by the threat of danger, pain, or harm####恐#恐</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the thing that your heart fears is crafted by a mediocre crafter
+RTK1#614#beguile#/bɪˈɡʌɪl/#charm or enchant (someone), often in a deceptive way#'he beguiled the voters with his good looks'###惑#惑</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">some politicians beguile people's hearts
+RTK1#615#emotion##a strong feeling deriving from one's cicumstances, mood, or relationships with others###かんじ#感#感
+RTK1#616#melancholy#/ˈmɛlənkəli/#a feeling of pensive sadness, typically with no obvious cause####憂#憂
+RTK1#617#widow##a woman who has lost her spouse by death and has not married again####寡#寡</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the widow stays lonely at home because her husband was cut by a paper sword
+RTK1#618#busy######忙#忙</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the heart is no longer busy because it deceased
+RTK1#619#ecstasy##a overwhelming feeling of great happiness or joyful excitement####悦#悦</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">her heart is fill with ecstasy when she sees her brother
+RTK1#620#constancy##the quality of being faithful and dependable####恒#恒</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your heart can span because of its constancy
+RTK1#621#lament##a passionate expression of grief or sorrow##<img src=""The-lost-art-of-lament.jpg"" />##悼#悼</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your heart is lament because it's eminent
+RTK1#622#enlightenment##the action of enlightening or the state of being enlightened####悟#悟</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the completion of enlightenment is you become your heart
+RTK1#623#dreadful##causing or involving great suffering, fear, or unhappiness; extremely bad or serious###こわい#怖#怖</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">heart is dreadful because its linen has gone missing
+RTK1#624#disconcerted#/ˌdɪskənˈsəːtɪd/#unsettled or confused####慌#慌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">こころ is confused about laying waste
+RTK1#625#repent##feel or express sincere regret or remorse about one's wrongdoing or sin##<img src=""images (2).jpg"" />#くやしい#悔#悔</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every heart need to be repented once in their life
+RTK1#626#hate#####にくしみ#憎#憎</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the heart hates formalty
+RTK1#627#accustomed##customary; usual####慣#慣</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the heart pierces its accustomed blood flows
+RTK1#628#pleasure##a feeling of happy satisfaction and enjoyment####愉#愉
+RTK1#629#lazy######惰#惰</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the heart is too lazy to keep its balance so it usually lays on the left of your body
+RTK1#630#humility##the quality of having a modest or low view of one's importance####慎#慎</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">it's the truth that heart is humility
+RTK1#631#remorse#/rɪˈmɔːs/#deep regret or guilt for a wrong committed#they were filled with remorse and shame###憾#憾</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">remorsing is the action of understand your heart's emotion
+RTK1#632#recollection##the action or faculty of remembering or recollecting something####憶#憶</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the heart has recollection of all its sound
+RTK1#633#pining##nostalgic####慕#慕
+RTK1#634#annexed#/əˈnɛks/#add as an extra or subordinate part, especially to a document#'the first ten amendments were annexed to the Constitution in 1791'###添#添</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the heavens annexed a manual with the wet heart about how to use it
+RTK1#635#invariably#/ɪnˈvɛːrɪəbli/#in every case or on every occasion; always#'ranch meals are invariably big and hearty'###必#必
+RTK1#636#ooze##slowly trickle or seep out of something####泌#泌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your heart has been slashed and blood is oozing.
+RTK1#637#hand######手#手
+RTK1#638#watch over##to protect someone and make certain that that person is safe###_板(かんばん)#看#看</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you will need to use both hands and eyes to watch over someone
+RTK1#639#chafe##make or become sore by rubbing against something####摩#摩
+RTK1#640#ego##a person's sense of self-esteem or self-importance####我#我
+RTK1 marked#641#righteousness##the quality of being morally right or justifiable####義#義</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the sheep's ego is all about righteousness
+RTK1#642#deliberation##long and careful consideration or discussion####議#議</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">deliberation is a righteous talk
+RTK1#643#sacrifice##an act of slaughtering an animal or person or surrendering a possession as an offering to a deity####犠#犠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this cow will be sacrificed for righteousness
+RTK1#644#rub##apply firm pressure to the surface of (something), using a repeated back and forth motion####抹#抹
+RTK1#645#embrace##hold (someone) closely in one's arms, especially as a sign of affection####抱#抱
+RTK1#646#board##a long, thin, flat piece of wood or other hard material, used for floors or other building purposes####搭#搭</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">someone trys to use the nail bat to force the flower fit in the space between the board and the wall
+RTK1#647#extract##remove or take out, especially by effort or force####抄#抄</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">someone extracted some nails from the nail bat
+RTK1#648#confront##come face to face with (someone) with hostile or argumentative intent####抗#抗</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the police use nail bat to confront the lid on the desk
+RTK1#649#criticism######批#批</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">criticism needs nail bat and the comparison
+RTK1#650#beckon#/ˈbɛk(ə)n/#make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow####招#招</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the lady who uses a nail bat to make a seductive pose, beckons runners
+RTK1#651#clear the land######拓#拓</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">use nail bat to clear the stone from the land
+RTK1#652#clap######拍#拍</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the teacher uses the nail bat to clap on the white board
+RTK1#653#strike######打#打</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">that guy uses a nail bat to strike everything on the street
+RTK1#654#arrest######拘#拘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every phrase in this game you have to arrest someone who is holding a nail bat
+RTK1#655#discard######捨#捨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the cottage discards nail bat
+RTK1#656#kidnap######拐#拐</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">there are two kidnappers. one has a nail bat and the other has a sword to prevent the victim open his mouth
+RTK1#657#pinch##grip (something, typically a person's flesh) tightly and sharply between finger and thumb####<div>摘</div>#<div>摘</div></span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the nail bat pinches you to make a deal
+RTK1#658#challenge#/ˈtʃalɪn(d)ʒ/#a call to someone to participate in a competitive situation or fight to decide who is superior in terms of ability or strength#'he accepted the challenge'###挑#挑
+RTK1#659#finger#####ゆび#指#指
+RTK1#660#hold######持#持
+RTK1#661#fasten######括#括</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your tongue fastens when it sees a nail bat
+RTK1#662#brandish##wave or flourish (something, especially a weapon) as a threat or in anger or excitement####揮#揮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">brandish is a wave of nail bat army
+RTK1#663#conjecture#/kənˈdʒɛktʃə/#a opinion or conclusion formed on the basis of incomplete information####推#推</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">bird can use nail bat is a conjecture
+RTK1#664#hoist#/hɔɪst/#raise (something) by means of ropes and pulleys#'a white flag was hoisted'###揚#揚</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the sun hoists a nail bat using its claw
+RTK1#665#propose######提#提</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a nail bat proposes to fight for justice
+RTK1#666#damage######損#損</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the employees is damaged by a nail bat
+RTK1#667#pick up######拾#拾</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the nail bat will picks up the fitness guide
+RTK1#668#shouldering######担#担</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the nail bat has to shoulder the nightbreak
+RTK1#669#foothold#/ˈfʊthəʊld/#a place where a person's foot can be lodged to support them securely, especially while climbing####拠#拠
+RTK1#670#sketch######描#描</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">use a nail bat to sketch seedling
+RTK1#671#maneuver##a movement or series of moves requiring skill and care####操#操</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">maneuver required putting nail bat and goods on the tree
+RTK1#672#touch######接#接
+RTK1#673#put up a notice######掲#掲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the notice is always boring
+RTK1#674#hang######掛#掛</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you need to hang the squarred jewel on the nail bat
+RTK1#675#polish######研#研
+RTK1#676#commandment######戒#戒
+RTK1#677#contraption##a machine or device that appears strange or unnecessarily complicated, and often badly made or unsafe####械#械</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">contraption is made from wood with commandment
+RTK1#678#nose#####はな#鼻#鼻
+RTK1#680#mould##a hollow container used to give shape to molten or hot liquid material when it cools and hardens####型#型
+RTK1#679#punish#/ˈpʌnɪʃ/#inflict a penalty or sanction on (someone) as retribution for an offence, especially a transgression of a legal or moral code####<div>刑</div>#<div>刑</div>
+RTK1#681#genius######才#才
+RTK1#682#property######財#財</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">those people who have a lot of property are geniuses
+RTK1#683#lumber######材#材</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">lumber is tree genius
+RTK1#684#suppose######存#存</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a children are supposed to believed that they are genius
+RTK1#685#exist#####存_(そんざい)#在#在
+RTK1#686#from######乃#乃
+RTK1 marked#687#portable######携#携
+RTK1#688#reach out######及#及
+RTK1#689#suck######吸#吸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your mouth sucks at reaching out for things
+RTK1#690#handle######扱#扱</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">nail bat needs to reach out to handle
+RTK1#691#length######<div>丈</div>#<div>丈</div>
+RTK1#692#history######史#史
+RTK1#693#officer######吏#吏</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the officer has a slashed mouth
+RTK1 marked#694#grow late######更#更</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a slashed field grows late
+RTK1#695#stiff#/stɪf/#not easily bent or changed in shape; rigid####硬#硬</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">that late grown stone is stiff
+RTK1#696#again######又#又
+RTK1#697#pair######双#双
+RTK1#698#mulberry##a small decidous tree with broad leaves, native to East Asia and long cultivated elsewhere####桑#桑</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">mulberry is a tree can be cultivated again three times
+RTK1#699#vessels######隻#隻</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">birds use their vessels again
+RTK1#700#safeguard#/ˈseɪfɡɑːd/#####護#護</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">safeguard always talks about flower's vessels
+RTK1#701#seize#/siːz/#take hold of suddenly and forcibly####獲#獲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">dogs seize the flower's vessels
+RTK1#702#guy######奴#奴</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">guy will become woman again
+RTK1#703#angry#####おこる#怒#怒</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">that guy's heart gets angry again
+RTK1#704#friend#####とも達#友#友
+RTK1#705#slip out######抜#抜</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a friend slips out with a nail bat
+RTK1#706#throw######投#投</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the nail bat throw the desk again
+RTK1#707#drown######没#没</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the person sitting on the desk will drown in the water again
+RTK1#708#establishment######設#設</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">they say that they will establish that desk again
+RTK1#709#beat#####うて#撃#撃</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the car beats the desk again in hand fight
+RTK1#710#husk#/hʌsk/#the dry outer covering of some fruits or seeds##<img src=""rice_husk.jpg"" />##殻#殻</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">husk is put on the desk to be sold again
+RTK1#711#branch######支#支</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the branch is broken in ten again
+RTK1#712#skill######技#技</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the nail bat is made from a branch by a skill lumber
+RTK1#713#bough#/baʊ/#a main branch of a tree####枝#枝
+RTK1#714#limb#/lɪm/#an arm or leg of a person or four-legged animal, or a bird's wing#'they got out, stretching their cramped limbs'###肢#肢</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">limb is a branch of body
+RTK1#715#stalk#/stɔːk/#the main stem of herbaceous plant###くき#茎#茎</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">stalk is the thing holds flower from the ground again
+RTK1#716#suspicious#####あやしい#怪#怪</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the heart on the ground is suspicious because you see it again and again
+RTK1#717#lightly######軽#軽</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the car runs lightly on the ground again
+RTK1#718#uncle######叔#叔</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">uncle stops a little time then walks again
+RTK1#719#coach#/kəʊtʃ/#####督#督</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">coach is your uncle watching you
+RTK1#720#loneliness#####さびしい#<div>寂</div>#<div>寂</div></span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your uncle is lonely at home
+RTK1#721#graceful######淑#淑</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the uncle walks on the water again is graceful
+RTK1#722#anti-######反#反
+RTK1#723#slope######坂#坂</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the soil slope is for anti-movement
+RTK1#724#plank#/plaŋk/#a long, thin, flat piece of timber, used especially in building and flooring##<img src=""plank.jpg"" />##板#板</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">these planks are made from wood and they're all anti-break
+RTK1#725#return######返#返</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this road is anti-return
+RTK1#726#marketing######販#販</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">marketing is an anti-money strategy
+RTK1#727#claw######爪#爪
+RTK1#728#gentle######妥#妥</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">woman uses claw gentlely
+RTK1#729#milk######乳#乳</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">children always use their claw to protest for milk
+RTK1#730#floating######浮#浮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">children always dream to float on the water and have claw like werewolf
+RTK1#731#leader######将#将</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">werewolf is a measure leader
+RTK1#732#exhort#/ɪɡˈzɔːt/#strongly encourage or urge (someone) to do something####奨#奨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the leader always exhorts loudest
+RTK1#733#pick######採#採</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">we only choose those tree having the claw-like mark from the nail bat
+RTK1#734#vegetable#####野さい#菜#菜</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">vegetable is collected by clawing flower and tree
+RTK1#735#accept######受#受</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">Mrs. claw accepts to live in that house again
+RTK1#736#impart##make (information) known###_業(じゅぎょう)#授#授
+RTK1#737#love######愛#愛
+RTK1#738#pay######払#払</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you have to pay for the nail bat yourself
+RTK1#739#wide######広#広
+RTK1#740#broaden######拡#拡
+RTK1#741#mineral######鉱#鉱
+RTK1#742#valve#/valv/#a device for controlling the passage fluid or air through a pipe, duct, etc., escpecially an automatic device allowing movement in one direction only####弁#弁
+RTK1#743#male######雄#雄
+RTK1#744#pedestal#/ˈpɛdɪst(ə)l/#the base or support on which a statue, obelisk, or column is mounted##<img src=""pedestal.png"" />##台#台
+RTK1#745#neglect#/nɪˈɡlɛkt/#fail to care for properly####怠#怠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the pedestal neglects its heart
+RTK1#746#reign##hold royal office; rule as monarch####治#治</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">water reigns on pedestal
+RTK1#747#commence##begin####始#始</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the woman commences to build the pedestal
+RTK1#748#womb##the organ in the lower body of a woman of female mammal where offspring are conceived and in which they gestate before birth; the uterus####胎#胎</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">womb is the pedestal part of body
+RTK1#749#window######窓#窓
+RTK1#750#gone######去#去
+RTK1#751#method######法#法</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">all the methods to breath under water are gone
+RTK1#752#meeting######会#会
+RTK1#753#climax######至#至
+RTK1#754#room#####しつ#室#室</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">at home, you can only reach climax in your room
+RTK1#755#arrival######到#到</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the arrival of climax is separated
+RTK1#756#doth##archaic (very old or old-fashioned) third person singular present of do####致#致</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">doth&nbsp;strikes&nbsp;climax
+RTK1#757#mutually#/ˈmjuːtʃ(ʊ)əli/##'adoption and fostering are not necessarily mutually exclusive alternatives'##おたがい#互#互
+RTK1 marked#758#abandon#/əˈband(ə)n/#####棄#棄</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">abandon ... infant ... buckle ... tree
+RTK1#759#bring up######育#育
+RTK1#760#remove######撤#撤</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">nail bat removes anyone who brings up the striking contest
+RTK1#761#allot#/əˈlɒt/#give or apportion (something) to someone#'I was allotted a little room in the servants' block'###充#充</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">allot ... lid ... license
+RTK1#762#gun#####じゅう#銃#銃</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">gun allots gold
+RTK1 marked#763#sulfur#/ˈsʌlfə/#the chemical element of atomic number 16, a yellow combustible none-metal#'We should use coal which contains less sulphur'###硫#硫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sulfur ... stone ... 
+RTK1#764#current#/ˈkʌr(ə)nt/#a body of water or air moving in a definite direction, especially through a surrounding body of water or air in which there is less movement#'ocean currents'###流#流
+RTK1#765#license######允#允
+RTK1#766#tempt##entice or try to entice (someone) to do something that they find attractive but know to be wrong or unwise#<div>'I was tempted to look at my watch, but didn't dare'</div>###唆#唆
+RTK1#767#exit######出#出
+RTK1#768#mountain######山#山
+RTK1#769#bungling#/ˈbʌŋɡ(ə)l/#carry out (a task) clumsily or incompetently (not having or showing the necessary skills to do something successfully#'she had bungled every attempt to help'###拙#拙
+RTK1#770#boulder##a large rock, typically one that has been worn smooth by erosion####岩#岩
+RTK1#771#charcoal######炭#炭
+RTK1#772#branch off##if a road or path branches off, it goes in another direction####岐#岐
+RTK1#773#mountain pass######峠#峠
+RTK1#774#cumble##break or fall apart into small fragments, especially as part of a process of deterioration (the process of becoming progressively worse)####<div>崩</div>#<div>崩</div>
+RTK1#775#secrecy#/ˈsiːkrɪsi/#the action of keeping something secret or state of being kept secret#<div>'the bidding is conducted in secrecy'</div>##秘_(ひみつ)#密#密</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the house in the mountain is invariably kept in secret
+RTK1#776#honey##a sweet, sticky yellowish-brown fluid made by bees and other insects from nectar collected from flowers####蜜#蜜
+RTK1#777#storm######嵐#嵐
+RTK1#778#promontory#/ˈprɒm(ə)nt(ə)ri/#a point of high land that juts out into the sea or a large lake; a headland#'the house sits on a rocky promontory at the southern tip of Kata beach, one of the best on the island'#<img src=""A5promontory.jpg"" />##崎#崎
+RTK1#779#enter######入#入
+RTK1#780#crowded######込#込
+RTK1#781#part#####自ぶん#分#分
+RTK1#782#poverty#/ˈpɒvəti/#the state of being extremely poor#'thousands of families are living in abject poverty'###貧#貧</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">poverty exists because of people only use part of money
+RTK1#783#partition######頒#頒
+RTK1#784#public######公#公
+RTK1#785#pine tree####<img src=""white-pine-400x267.jpg"" />##松#松</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">pine tree is a public tree
+RTK1#786#venerable old man##a wisdom old man####翁#翁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">venerable old man is the leather of public
+RTK1#787#sue##institute legal preceedings against (a person or institution), typically for redress####訟#訟</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">Sue said in front of public
+RTK1#788#valley##a low area of land between hills or moutains, typically with a river or stream flowing through it####谷#谷
+RTK1#789#bathe##wash by immersing one's body in water####浴#浴</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">no one bathes in a valley of water
+RTK1#790#contain######容#容</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">this house contains a vallley
+RTK1#791#melt######溶#溶</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">water contains melted ice
+RTK1#792#longing##a yearning desire###ほしい#欲#欲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">valley lacks a longing
+RTK1#793#abundant##existing or available in large quantities; plentiful####裕#裕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">there is abundant garment in the valley
+RTK1 marked#794#lead##lead (metal)####鉛#鉛
+RTK1#795#run alongside######沿#沿
+RTK1#796#prize######賞#賞
+RTK1#797#party######党#党
+RTK1#798#hall######堂#堂
+RTK1#799#usual######常#常</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">usual ... outhouse ... towel
+RTK1#800#skirt##a woman's outer garment fastened around the waist and hanging down around the legs####裳#裳
+RTK1#801#manipulate######掌#掌
+RTK1#802#pelt##hurl (throw or impel (someone or something) with great force) missiles repeatedly at####皮#皮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">pelt is a radical kanji
+RTK1#803#waves######波#波
+RTK1#804#old woman######婆#婆</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the old lady is pelted with water
+RTK1#805#expose######披#披</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the nail bat is exposed when being pelted at
+RTK1#806#rend#/rɛnd/#tear (something) into pieces###＿壊（はかい）#破#破</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the stone is pelted until rend
+RTK1#807#incur##become subject to (something unwelcome or unpleasant) as a result of one's own behaviour or actions<div>'I will pay any expenses incurred'</div>####被#被</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">he has to pay the incur expenses because he pelted the garment
+RTK1#808#remainder######残#残
+RTK1#809#martyrdom#/ˈmɑːtədəm/#the death or suffering of a martyr#an extraodinary letter was written by the prior of the monastery two years before his martyrdom###殉#殉</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">everyone has martyrdom will die after ten days
+RTK1#810#particularly######殊#殊</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">vermilion decays particularly fast
+RTK1#811#augment#/ɔːɡˈmɛnt/#make (something) greater by adding to it; increase#'he augmented his summer income by painting houses'###殖#殖</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">augment ... die ... straightaway
+RTK1#812#file######列#列
+RTK1#813#split##break or cause to break forcibly into parts, especially into halves or along the grain####裂#裂
+RTK1#814#ardent#/ˈɑːd(ə)nt/#very enthusiastic or passionate#'an ardent supporter of the conservative cause'###烈#烈</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">ardent ... file ... fire
+RTK1#815#death#####しぬ#死#死
+RTK1#816#interment#/ɪnˈtəːm(ə)nt/#the burial of corpse in a grave or tomb, typically with funeral rites##<img src=""interment.jpg"" />##葬#葬</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the interment of the death is under the grass
+RTK1 marked#817#wink##close and open one eye quickly, typically to indicate that something is a joke or a secret or as a signal of affection or greeting####瞬#瞬
+RTK1#818#ear##みみ####耳#耳
+RTK1#819#take######取#取</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">take ... ear ... again
+RTK1#820#gist##the substance or general meaning of a speech or text###_味(しゅみ)#趣#趣
+RTK1#821#utmost##most extreme; greatest###_悪(さいあく)#最#最
+RTK1#822#snapshot######撮#撮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you utmost take snapshot of the nail bat
+RTK1#823#shame#####はずかしい#恥#恥</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">having ear in your heart is shameful
+RTK1 marked#824#post#/pəʊst/#a piece of writing, image, or other item of content published online, typically on a blog or social media website or application####職#職</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">post ... ear ... sound ... spear
+RTK1#825#holy######聖#聖</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the king's mouth always talk and hear about Holywood
+RTK1#826#daring#/ˈdɛːrɪŋ/#(of a person or &nbsp;action) adventurous or audaciously bold#'We'll tell you about a daring raid with surprising results next'###敢#敢
+RTK1#827#listen######聴#聴
+RTK1#828#pocket######懐#懐
+RTK1 marked#829#ridicule#/ˈrɪdɪkjuːl/#the subjection of someone or something to contemptuous and dismissive language or behaviour#he is held up as an object of ridicule###慢#慢</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">ridicule ... heart ... sun ... eye ... again
+RTK1#830#cartoon#####まん画#漫#漫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cartoon ... water ... sun ... eye ... again
+RTK1#831#buy#####かい物#買#買
+RTK1#832#placement######置#置
+RTK1#833#penalty#/ˈpɛn(ə)lti/#a punishment imposed for breaking a law, rule, or contract####罰#罰
+RTK1 marked#834#rather######寧#寧</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">rather ... house ... heart ... eye ... street
+RTK1 marked#835#voiced######濁#濁
+RTK1 marked#836#ring######環#環</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">king ... eye ... ceiling ... mouth ... scarf
+RTK1#837#send back######還#還
+RTK1#838#husband######夫#夫
+RTK1#839#aid######扶#扶
+RTK1#840#mountain stream####<img src=""mountain_stream.jpg"" />##渓#渓</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">water ... vulture ... husband
+RTK1#841#standard######規#規
+RTK1#842#exchange######替#替
+RTK1#843#approve######賛#賛
+RTK1#844#submerge#/səbˈməːdʒ/#cause (something) to be under water#'houses had been flooded and cars submerged'#<img src=""submerge.jpg"" />##潜#潜
+RTK1#845#lose<br />##drop something####失#失
+RTK1#846#iron######鉄#鉄
+RTK1#847#alternate#/ˈɒltəneɪt/#occur in turn repeatedly#'bouts of depression alternate with periods of elation'#<img src=""alternate.jpg"" />##迭#迭</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">alternate ... drop ... road
+RTK1#848#retainer##a thing that holds something in place####臣#臣
+RTK1#849#princess#####ひめ様#姫#姫
+RTK1#850#storehouse######蔵#蔵
+RTK1#851#entrails#/ˈɛntreɪlz/#a person's or animal's intestines or internal organs, especially when removed or exposed####臓#臓
+RTK1#852#intelligent######賢#賢
+RTK1#853#strict######堅#堅
+RTK1#854#look to##face, meet###のぞむ#臨#臨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">facing the gaints
+RTK1 marked#855#perusal#/pəˈruːz(ə)l/#the action of reading or examining something#I countinued my perusal of the instructions#<img src=""perusal.jpg"" />##覧#覧
+RTK1#856#gigantic######巨#巨
+RTK1#857#repel##drive or force (an attack or attacker) back or away####拒#拒
+RTK1#858#power#####ちから#力#力
+RTK1#859#man#####おとこ#男#男
+RTK1#860#labor######労#労
+RTK1#861#recruit######募#募
+RTK1#862#inferiority#/ɪnˌfɪərɪˈɒrɪti/#the condition of being lower in status or quality than another or others#'They were exiled or degraded to a position of inferiority'###劣#劣
+RTK1#863#achievement######功#功
+RTK1#864#persuade#/pəˈsweɪd/#induce (someone) to do something through reasoning or argument####勧#勧</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">persuade pegasus power
+RTK1#865#toil#/tɔɪl/#work extremely hard or incessantly##<img src=""toil.jpg"" />##努#努
+RTK1#866#encourage#/ɛnˈkʌrɪdʒ/#give support, confidence, or hope to (someone)#'we were encouraged by the success of this venture'###励#励
+RTK1#867#add######加#加
+RTK1#868#congratulations######賀#賀
+RTK1 marked#869#erect#/ɪˈrɛkt/#rigidly upright or straight####架#架
+RTK1#870#armpit######脇#脇
+RTK1#871#threaten######脅#脅
+RTK1#872#co-######協#協
+RTK1#873#going#####いってらっしゃい#行#行
+RTK1#874#rhythm#/ˈrɪð(ə)m/#a strong, regular repeated pattern of movement or sound<div><br /></div><div><div>One, two,</div><div>Buckle my belt;</div><div>Three, four,</div><div>Snap the lock.</div></div>####律#律
+RTK1#875#restore######復#復
+RTK1#876#gain#/ɡeɪn/#obtain or secure (something wanted or desirable)####得#得
+RTK1#877#accompany#/əˈkʌmpəni/#go somewhere with (someone) as a companion or escort#'the two sisters were to accompany us to London'###従#従</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">column horn correct accompany
+RTK1#878#junior#####とほ#徒#徒
+RTK1#879#wait######待#待
+RTK1#880#journey######往#往
+RTK1 marked#881#subjugate#/ˈsʌbdʒʊɡeɪt/#bring (something) under domination or control, especially by conquest#'the invaders had soon subjugated most of the population'###征#征
+RTK1 marked#882#diameter#/dʌɪˈamɪtə/#a straight line passing from side to side through the center of a body or figure, especially a circle or sphere####径#径
+RTK1#883#he######彼#彼</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">he going pelt
+RTK1#884#duty#####お店_の人(おみせやくのひと)#役#役
+RTK1#885#benevolence#/bɪˈnɛv(ə)l(ə)ns/#the quality of being well meaning; kindness#'Any positive act of benevolence &nbsp;or good &nbsp;will is one that could be considered sacred.'###徳#徳
+RTK1#886#penetrate#/ˈpɛnɪtreɪt/#go into or through (something), especially with force or effort####徹#徹
+RTK1#887#indications######徴#徴
+RTK1 leech marked#888#penal#/ˈpiːn(ə)l/#relating to, used for, or prescribing the punishment of offenders under legal system<div><br /></div><div>penal, chastise, punish, discipline</div>#'the campaign for penal reform'###懲#懲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">penal ... delicate ... heart
+RTK1 marked#889#delicate######微#微
+RTK1#890#boulevard#/ˈbuːləvɑːd/#a wide street in a town or city, typically one lined with trees#'on the banks of the Danube, it is a city of lazy boulevards and pleasant cafes'###街#街
+RTK1 marked#891#equilibrium#/ˌiːkwɪˈlɪbrɪəm/#<div>a state in which opposing forces or influences are balanced</div>##<img src=""kouki.jpg"" />#＿器（こうき）#衡#衡
+RTK1#892#draft#/drɑːft/#a preliminary version of a piece of writing####稿#稿
+RTK1#893#earnings######稼#稼
+RTK1#894#extent######程#程</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">I extend the display for the king
+RTK1#895#tax######税#税</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">I have to pay tax for my brother
+RTK1#896#immature######稚#稚</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">I am used to an immature bird
+RTK1#897#harmony#/ˈhɑːməni/#the combination of simultaneously sounded musical notes to produce a pleasing effect####和#和
+RTK1#898#shift####<img src=""shift.jpg"" />##移#移
+RTK1#899#second##a sixtieth of a minute of time####秒#秒
+RTK1#900#autumn######秋#秋
+RTK1#901#distress#/dɪˈstrɛs/#extreme anxiety, sorrow, or pain####愁#愁
+RTK1#902#private#####わたし#私#私
+RTK1#903#regularity#/rɛɡjʊˈlarəti/#the state of quality of being regular####秩#秩</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">regularity wheat drop
+RTK1#904#secret#/ˈsiːkrɪt/#####秘#秘
+RTK1#905#appellation#<div>/ˌapəˈleɪʃ(ə)n/</div>#a name or title#the city fully justifies its appellation 'the Pearl of the Orient'###称#称
+RTK1#906#profit######利#利
+RTK1#907#pear tree####<img src=""pear.png"" />##梨#梨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you will have lots of profits if you plant pear
+RTK1#908#harvest######穫#穫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">harvest wheat flowers vessels
+RTK1#909#ear of a plant####<img src=""elephant-ear-400x533.jpg"" />##穂#穂
+RTK1#910#rice plant######稲#稲
+RTK1#911#incense#/ˈɪnsɛns/#a gum, spice, or other substance that is burned for the sweet smell it produces##<img src=""Pure_Incense-350x300.jpg"" />##香#香
+RTK1#912#seasons######季#季
+RTK1#913#committee##a group of people appointed for a specific function by a larger group and typically consisting members of that group####委#委
+RTK1#914#excel######秀#秀
+RTK1#915#transparent#/trɑːnˈspar(ə)nt/#allowing light to pass through so that objects behind can be distinctly seen#'transparent blue water###透#透
+RTK1#916#entice#/ɪnˈtʌɪs/#attract or tempt by offering pleasure or advantage####誘#誘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you will excel everyone if you ... : The guy said
+RTK1#917#cereals#/ˈsɪərɪəl/#a grain used for food, for example wheat, maize, or rye#there are few govenments that chose to rely on imports of basic cereals (wheat, rice, etc.)#<img src=""cereals.jpg"" />##穀#穀
+RTK1#919#rice#####こめ#米#米
+RTK1#920#flour#/ˈflaʊə/#####粉#粉
+RTK1#921#sticky######粘#粘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">rice becomes sticky when put on your mouth 
+RTK1#918#germ#/dʒəːm/#a microorganism####菌#菌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">germ lives in flowers of thousand year-old tree
+RTK1#922#grains#/ɡreɪns/#wheat or any other cultivated cereal used as food##<img src=""grains.jpg"" />##粒#粒</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">rice grains is dropped when you stand up
+RTK1#923#cosmetics#/kɒzˈmɛtɪk/#a powder, lotion or lipstick####粧#粧</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cosmetics is commonly made with rice
+RTK1#924#astray#/əˈstreɪ/#out of the right way#'We went astray but a man redirected us'##まいご#迷#迷
+RTK1#925#chic##attractive or fashionable####粋#粋</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">during war time, anyone has 90 kilograms of rice is a chic person
+RTK1#926#provisions##supplies of food##<img src=""provisions.jpg"" />##糧#糧</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">provisions have a large quantity of rice
+RTK1#927#chrysanthemum#/krɪˈsanθɪməm/###<img src=""chrysanthemum.jpg"" />##菊#菊</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">chrysanthemum is rice flower blooms periodically
+RTK1#928#core######奥#奥</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">a big rice seed is in the core of this word
+RTK1#929#number######数#数</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">girls care about the number of rice they stroke 
+RTK1#930#watchtower####<img src=""watchtower.jpg"" />##楼#楼</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">watch tower ... tree ... rice ... woman
+RTK1#1052#grant######賜#賜
+RTK1#1053#urine#/ˈjʊərʌɪn/#####尿#尿
+RTK1#1051#easy######易#易
+RTK1 marked#1056#fence######塀#塀</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fence soil flag puzzle
+RTK1#1057#footgear#/ˈfʊtɡɪə/#outer coverings for the feet, such as shoes, boots, and sandals####履#履</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you need your footgear to restore the flag
+RTK1#1055#mud######泥#泥
+RTK1#1058#roof######屋#屋
+RTK1#1060#yield#/jiːld/#produce or provide (a natural, agricultural, or industrial product)#'the land yields graphs and tobacco'###屈#屈
+RTK1#1059#grip#/ɡrɪp/#take and keep a firm hold of; grasp tightly#'his knuckles were white as he gripped the steering wheel'###握#握
+RTK1#1062#ditch#/dɪtʃ/#a narrow channel dug at the side of a road or field, to hold or carry water#'their car went out of control and plunged into a ditch'#<img src=""ditch.jpg"" />##堀#堀
+RTK1#1063#reside######居#居
+RTK1#1054#nun#/nʌn/#a member of a religious community of women, typically one living under vows of poverty, chastity, and obedience####尼#尼
+RTK1#1065#stratum#/ˈstreɪtəm/#a layer of materials#in this paper, we describe the use of spectral gamma-ray logs in testing and refining high-resolution stratigraphy in fluvial strata#<img src=""stratum.jpg"" />##層#層
+RTK1#991#convenience######便#便
+RTK1#1064#set######据#据</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you set the nail bat's reside location
+RTK1#992#double######倍#倍
+RTK1#993#tenderness#####やさしい#優#優
+RTK1#1061#dig######掘#掘</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">we need to yeild nail bat to dig something
+RTK1#994#fell##to knock, strike, or cut down####伐#伐
+RTK1#997#protect######保#保
+RTK1#996#wound#/wuːnd/#####傷#傷
+RTK1#998#praise#####ほめる#褒#褒
+RTK1 marked#999#greatness######傑#傑
+RTK1 marked#995#inn#/ɪn/#a pub, typically one in the country, in some cases providing accommodation####宿#宿
+RTK1 marked#1000#adhere#<div>/ədˈhɪə/</div>#stick, attach to (a surface or substance)#adheisive tape will not adhere to wet, dirty, rusty, or frozen surfaces###付#付
+RTK1#1003#responsibility#####まかせて#任#任
+RTK1#1001#token#####ふごう#符#符
+RTK1#1002#municipality#/mjʊˌnɪsɪˈpalɪti/#<div>a city, town, or other district possessing corporate existence and usually its own local government</div>##<img src=""municipality.jpg"" />##府#府
+RTK1#1005#substitute#/ˈsʌbstɪtjuːt/#a person or thing acting or serving in place of another####代#代
+RTK1#1004#fare#/fɛː/#the money paid for a journey on public transport####賃#賃</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">we have the responsibility to pay the fare
+RTK1#1082#tears######涙#涙
+RTK1#1084#look back######顧#顧
+RTK1#1083#employ######雇#雇
+RTK1#1081#re-######戻#戻
+RTK1#1085#disclose######啓#啓
+RTK1#1088#auspicious#/ɔːˈspɪʃəs/#<div>promising successfully</div>#'it was not the most auspicious moment to hold an election'&nbsp;#<img src=""auspicious.png"" />##祥#祥
+RTK1#1086#show######示#示
+RTK1#1090#blessing#/ˈblɛsɪŋ/####ふく#福#福
+RTK1#1091#welfare#/ˈwɛlfɛː/#the health, happiness, and fortunes of a person or group###しふく#祉#祉
+RTK1#1087#salutation#/saljʊˈteɪʃ(ə)n/#<div>the act of showing respect</div>####礼#礼
+RTK1#1093#inspection#/ɪnˈspɛkʃn/#####視#視
+RTK1#1094#Nara##a Japanese city name###なら#奈#奈
+RTK1#1095#military officer#####じょう#尉#尉
+RTK1#961#other#####ほか#他#他
+RTK1#962#prostrated#/ˈprɒstreɪt/#lying stretched out on the ground with one's face downwards##<img src=""facedown-worship.jpg"" />##伏#伏
+RTK1#1089#celebrate#/ˈsɛlɪbreɪt/#####祝#祝
+RTK1#964#Buddha#/ˈbʊdə/#a title given to the founder of Buddhism####仏#仏
+RTK1#965#rest#####やすみ#休#休
+RTK1#966#provisional#/prəˈvɪʒ(ə)n(ə)l/#<div>arranged or existing for present, possibly to be changed later</div>#it was a kind of empire built on very provisional and tentative things that might happen###仮#仮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">provisional ... person ... anti-
+RTK1#967#chief#/tʃiːf/#a leader or ruler of a people or clan####伯#伯
+RTK1#968#vulgar#/ˈvʌlɡə/#lacking sophistication or good taste##<img src=""vulgar_language.jpg"" />##俗#俗
+RTK1#969#faith#####しん#信#信
+RTK1#1092#company######社#社
+RTK1#963#transmit#/transˈmɪt/#cause (something) to pass on from one person or place to another#knowledge is transmitted from teacher to pupil#<img src=""transmit.png"" />##伝#伝
+RTK1#970#excellent######佳#佳
+RTK1#971#reliant#/rɪˈlʌɪənt/#<div>dependent on someone or something</div>####依#依</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">humans have to rely on garment in order to cover their body
+RTK1#973#individual#/ɪndɪˈvɪdʒʊ(ə)l/#####個#個
+RTK1#975#side######側#側
+RTK1#974#healthy######健#健</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">body builder is healthy
+RTK1#946#calculate######算#算</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">calculate ... bamboo ... eyes ... two hands
+RTK1#948#scheme#/skiːm/#a plan, design, or program of action to be followed####策#策
+RTK1 marked#947#solution######答#答</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">solution ... bamboo ... fit
+RTK1 marked#949#register#/ˈrɛdʒɪstə/#####簿#簿
+RTK1#950#fabricate#/ˈfabrɪkeɪt/#construct or manufacture (an industrial product)#If, however, I believed that Mr. Wemyss had fabricated his evidence on this I would be more concerned#<img src=""fabricate.jpg"" />##築#築
+RTK1#972#example#/ɪɡˈzɑːmp(ə)l/####れい#例#例
+RTK1#952#assistant#/əˈsɪst(ə)nt/###<img src=""assistant.jpg"" />##佐#佐
+RTK1#954#dwell#/dwɛl/#to live or stay as a permanent resident#groups of gypsies still dwell in these caves###住#住
+RTK1#953#however######但#但
+RTK1#956#go-between##close relationship###なか#仲#仲
+RTK1#955#rank#/raŋk/#####位#位
+RTK1#951#person######人#人
+RTK1#958#remote######悠#悠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">remote ... person ... stick ... taskmaster ... heart
+RTK1#960#attend#/əˈtɛnd/#be present at (an event, meeting, or function)####仕#仕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">humans have to attend on the ground
+RTK1#959#affair#/əˈfɛː/#a matter that is a particular person's concern or responsibility####件#件
+RTK1#957#body#####からだ#体#体
+RTK1#976#さむらい######侍#侍
+RTK1#979#emulate#/ˈɛmjʊleɪt/#match or surpass (a person or achievement), typically by imitation####倣#倣
+RTK1#980#overthrow#/əʊvəˈθrəʊ/#remove forcibly from power####倒#倒
+RTK1#981#spy#/spʌɪ/#####偵#偵
+RTK1#978#price#/prʌɪs/####あたい#値#値
+RTK1#982#Buddhist priest#/ˈbʊdɪst priːst/#####僧#僧
+RTK1#984#ceremony#/ˈsɛrɪməni/#a formal religious or public occasion, especially one celebrating a particular event, achievement, or anniversary####儀#儀
+RTK1#983#hundred million#####おく#億#億
+RTK1#986#hermit#/ˈhəːmɪt/#a person living in solitude as a religious discipline####仙#仙
+RTK1#985#reparation#/ˌrɛpəˈreɪʃ(ə)n/#the action of making amends for wrong one has done, by providing payment or other assistance to those who have been wronged#the courts required a convicted to offender to make financial reparation to his victim###償#償
+RTK1#977#halt#/hɔːlt/#####停#停</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">people halt building pavilion
+RTK1#987#sponsor#/ˈspɒnsə/#####催#催
+RTK1#990#use#####つかう#使#使
+RTK1#988#humanity#/hjʊˈmanɪti/#####仁#仁
+RTK1#1171#tooth#/tuːθ/#####歯#歯
+RTK1#1173#cadet#/kəˈdɛt/#a young trainee in the armed services or police force####曹#曹
+RTK1#1172#bend#/bɛnd/#shape by force####曲#曲
+RTK1#1174#encounter######遭#遭
+RTK1#989#scorn#/skɔːn/#despise#I do not wish to become the object of scorn###侮#侮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">every person is scorned
+RTK1#1175#rowing#/ˈrəʊɪŋ/#####漕#漕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cadets have to row on the water
+RTK1#1177#Big Dipper##a prominent of seven stars in the constellation Ursa Major (the Great Bear), containing the Pointers that indicate the direction to the Pole Start##<img src=""Big-Dipper.jpg"" />##斗#斗
+RTK1#1178#fee#/fiː/####りょう理#料#料
+RTK1 marked#1179#department######科#科
+RTK1#1181#utilize#/ˈjuːtɪlʌɪz/#make practical and effective use of####用#用
+RTK1#1180#map######図#図
+RTK1#1182#comfortable#<div>/ˈkʌmf(ə)təb(ə)l/</div>#####庸#庸
+RTK1#1184#once upon a time######昔#昔
+RTK1#1185#confused######錯#錯
+RTK1#1176#vat#/vat/#a large tank or tub used to hold liquid####槽#槽</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cadets usually keep their goods in vats and hide them on the tree
+RTK1#1111#flute##/fluːt/####笛#笛
+RTK1#1113#armor######甲#甲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sun shines on top of the armor stick
+RTK1#1114#push######押#押
+RTK1 marked#1183#equip######備#備
+RTK1#1115#headland#/ˈhɛdlənd/###<img src=""headland.jpg"" />##岬#岬
+RTK1#1117#speaketh######申#申
+RTK1#1116#insert######挿#挿
+RTK1#1118#expand######伸#伸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">human expands speaketh
+RTK1#1120#search#####さがす#捜#捜</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">nail bat searches a way to speak again
+RTK1#1119#gods#####かみ#神#神
+RTK1#1121#fruit######果#果
+RTK1#1123#chapter######課#課
+RTK1#1122#confectionary#/kənˈfɛkʃ(ə)nəri/#an elaborate sweet dish or delicacy####菓#菓
+RTK1#1125#axe#/aks/#####斤#斤
+RTK1#1124#naked######裸#裸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fruit is always naked because it doesn't have garment
+RTK1#1142#make#####つかる#作#作
+RTK1#1143#snow#####ゆき#雪#雪
+RTK1 marked#1144#record######録#録
+RTK1#1145#inquire#/ɪnˈkwʌɪə/#ask for information from someone####尋#尋
+RTK1#1146#hurry######急#急
+RTK1#1141#lie######詐#詐
+RTK1#1147#calm######穏#穏
+RTK1 marked#1149#immersed#/ɪˈməːs/#dip or submerge in a liquid#'immerse the paper in water for twenty minutes'###浸#浸
+RTK1#1112#axis#/ˈaksɪs/#####軸#軸
+RTK1 marked#1148#encroach#/ɪnˈkrəʊtʃ/#intrude on (a person's territory, rights, personal life, etc.)#bears encroach upon urban area#<img src=""encroach.jpg"" />##侵#侵
+RTK1#1150#lie down#####ねる#寝#寝
+RTK1#1153#hit######当#当
+RTK1 leech#1152#sweep#/swiːp/#clean (an area) by brushing away dirt or litter#'I've swept the floor'###掃#掃</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sweep ... nail bat ... tower
+RTK1#1154#contend#/kənˈtɛnd/#struggle to surmount (overcome) (a difficulty)##<img src=""contend.jpg"" />##争#争
+RTK1#1006#sack#/sak/#a large bag made of strong material such as hessian, thick paper, or plastic, used for storing and carrying goods##<img src=""sack.jpg"" />##袋#袋</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sack ... substitute ... garment
+RTK1#1151#lady######婦#婦
+RTK1#1155#clean######浄#浄</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">you have to contend in order to clean the toilet with water
+RTK1#1008#change######化#化
+RTK1#1010#freight#/freɪt/#goods transported in bulk by truck, train, ship, or aircraft####貨#貨
+RTK1#1011#lean#/liːn/#be in or move into a sloping position####傾#傾</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">when a paper leans backward, its position changes
+RTK1#1009#flower######花#花
+RTK1#1012#what######何#何
+RTK1#1013#baggage#/ˈbaɡɪdʒ/#suitcases and bags containing personal belongings packed for travelling; luggage##<img src=""baggage.png"" />##荷#荷
+RTK1 marked#1014#sagacious#/səˈɡeɪʃəs/#having or showing keen mental discrenment and good judgment; wise or shrewd#'they were sagacious enough to avoid any outright confrontation'###俊#俊
+RTK1#1016#long time######久#久
+RTK1#1015#bystander######傍#傍
+RTK1#1017#furrow#/ˈfʌrəʊ/#a long, narrow trench made in the ground by a plough, especially for planting seeds or irrigation##<img src=""furrows.jpg"" />##畝#畝
+RTK1#1019#inside######内#内
+RTK1#1018#captured######囚#囚
+RTK1 marked#1020#third class######丙#丙
+RTK1#1187#pity######惜#惜
+RTK1#1007#lend#/lɛnd/#grant to (someone) the use of (something) on the understanding that it will be returned####貸#貸
+RTK1#1189#scatter#/ˈskatə/#throw in various random directions####散#散
+RTK1#1188#set aside######措#措</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">nail bat sets aside all once upon a time tales
+RTK1#1190#twenty######廿#廿
+RTK1#1191#commoner######庶#庶
+RTK1#1192#intercept#/ˌɪntəˈsɛpt/#obstruct (someone or something) so as to prevent them from continuing to a destination####遮#遮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the road intercepts commoner
+RTK1#1194#degrees######度#度
+RTK1#1186#borrow######借#借
+RTK1 leech marked#1195#transit#/ˈtransɪt/#the carrying of people or things from one place to another####渡#渡</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">transit ... water ... degree
+RTK1 marked#1197#erupt#/ɪˈrʌpt/#####噴#噴
+RTK1#1196#bustle#/ˈbʌs(ə)l/#move in an energetic and busy manner#eventually she let him go, bustling around her kitchen, keeping busy#<img src=""bustle.jpg"" />##奔#奔
+RTK1#1199#aroused#/əˈraʊzd/#sexually excited####憤#憤
+RTK1#1193#seat######席#席
+RTK1#1321#plug up######窒#窒
+RTK1#1322#stealth#/stɛlθ/#cautious and surreptitous action or movement####窃#窃
+RTK1#1323#depression#/dɪˈprɛʃ(ə)n/[sound:depression_gb_1.mp3]#feelings of severe despondency and dejection####窪#窪
+RTK1#1200#bake#/beɪk/#cook (food) by dry heat without direct exposure to a flame, typically in an oven####焼#焼
+RTK1 marked#1324#squeeze#/skwiːz/[sound:squeeze_gb_1.mp3]#firmly press (something soft or yielding), typically with one's fingers####搾#搾</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">squeeze ... nail bat ... hole ... saw
+RTK1 marked#1326#hard up######窮#窮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">hard up ... hole ... somebody ... bow
+RTK1#1198#tomb#/tuːm/#a large vault, typically an underground one, for burying the dead####墳#墳
+RTK1#1327#grope#/ɡrəʊp/#search blindly or uncertainly by feeling with the hands####探#探
+RTK1#1328#deep######深#深
+RTK1#1330#Point######岳#岳
+RTK1#1329#hill######丘#丘
+RTK1#1331#soldier#<div>/ˈsəʊldʒə/</div>[sound:soldier_gb_1.mp3]#####兵#兵
+RTK1#1332#seacoast##the part of the land adjoining or near the sea##<img src=""seacoast.jpg"" />##浜#浜
+RTK1#1334#weave#/wiːv/#form (fabric or a fabric item) by interlacing long threads passing in one direction with others at a right angle to them##<img src=""weave.jpg"" />##織#織</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">weave ... thread ... kazoo
+RTK1#1325#kiln#/kɪln/#a furnace or oven for burning,baking, or drying, especially one for calcining lime or firing pottery##<img src=""kiln.jpg"" />##窯#窯
+RTK1#1335#darning#/ˈdɑːnɪŋ/#the skill or activity of mending a hole in knitted material by interweaving yarn##<img src=""darning.jpg"" />##繕#繕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">darning ... thread ... virtuous
+RTK1#1333#thread######糸#糸
+RTK1#1261#various######諸#諸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">various ... say ... someone
+RTK1#1263#strand#/strand/[sound:strand_gb_2.mp3]#the shore of a sea, lake, or large river#'He complained about insufficient car parking for visitors to the strand and the poor access facilities onto the beach for the elderly and the people with disabilities'#<img src=""nagisa.jpg"" />#なぎさ#渚#渚
+RTK1#1262#boar######猪#猪
+RTK1#1264#gamble######賭#賭
+RTK1#1265#gorge#/ɡɔːdʒ/#a narrow valley between hills or mountains, typically with steep rocky walls and a stream running throught it##<img src=""gorge.jpg"" />##峡#峡
+RTK1#1266#cramped######狭#狭
+RTK1#1267#sandwiched######挟#挟
+RTK1 marked#1268#chase######追#追
+RTK1#1269#expert######師#師
+RTK1#1270#commander#/kəˈmɑːndə/[sound:commander_gb_1.mp3]#####帥#帥
+RTK1#1271#bureaucrat#/ˈbjʊərəkrat/#an official in government department, in particular one perceived as being concerned with procedural correctness at the expense of people's needs####官#官
+RTK1#1272#coffin#/ˈkɒfɪn/#a long, narrow box, typically of wood, in which a dead body is buried or cremated####棺#棺
+RTK1#1273#pipe#/pʌɪp/#a tube used to convey water, gas, oil, or other fluid substances####管#管
+RTK1#1274#father######父#父
+RTK1#1275#mingle#/ˈmɪŋɡ(ə)l/#mix or cause to mix together####交#交
+RTK1#1366#general######総#総
+RTK1 marked#1367#cotton######綿#綿</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">your white tower made from cotton thread
+RTK1 marked#1368#silk#/sɪlk/#####絹#絹
+RTK1#1369#winding#/ˈwʌɪndɪŋ/[sound:winding_gb_1.mp3]#a twisting movement or course#I followed with my eye the winding of the road and saw that it curved close to one of the densest of these clumps and was lost behind it###繰#繰
+RTK1#1370#inherit#/ɪnˈhɛrɪt/#receive (money, property, or a title) as an heir at the death of the previous holder#'she inherited a fortune from her father'###継#継
+RTK1#1371#green#####みどり#緑#緑
+RTK1#1372#affinity#/əˈfɪnɪti/#a natural liking for and understanding of someone or something#'he had a special affinity with horses'###縁#縁
+RTK1#1373#netting#/ˈnɛtɪŋ/#open-meshed material made by knotting together twine, wire, rope, or thread#'protect crops from pigeons and other birds with netting'###網#網
+RTK1#1374#tense#/tɛns/#unable to relax because of nervousness, anxiety, or stimulation#'he was as calm as ever but there was a tense anxiety in his eyes'###緊#緊
+RTK1#1375#purple#####むらさき#紫#紫
+RTK1#1376#truss#/trʌs/#a framework, typically consisting of rafters, posts, and structs, supporting a roof, bridge, or other structure#using chain pulls, workers then lifted the panel and loosely connected it to attic posts, attached to roof trusses#<img src=""truss.jpg"" />##縛#縛</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">truss is made from special steel
+RTK1#1377#straw rope####<img src=""straw_rope.jpg"" />##縄#縄
+RTK1#1378#infancy#/ˈɪnf(ə)nsi/[sound:infancy_gb_1.mp3]#the state or period of babyhood or early childhood#this is at its best in infancy and early childhood and is lost, as we get older##_なじみ(おさななじみ)#幼#幼
+RTK1#1379#behind#####うしろ#後#後
+RTK1#1380#faint#/feɪnt/#(of a sight, smell, or sound) barely perceptible#'as they got closer Zoe could see faint outlines of buildings'###幽#幽
+RTK1#1036#year#####ことし#年#年
+RTK1#1037#night#####よる#夜#夜
+RTK1#1038#fluid#/ˈfluːɪd/#a substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid#'Replacing these lost fluids is essential if the body is to be kept in balance and dehydration avoided'###液#液</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fluid ... water ... night
+RTK1#1039#hillock#/ˈhɪlək/#a small hill or mound#'All these actions together have helped BT reduce its debt mountain to a small hillock'###塚#塚
+RTK1#1040#cash#/kaʃ/##'the staff were paid in cash'###幣#幣
+RTK1#1041#abuse#/əˈbjuːz/#use (something) to bad effect or for a bad purpose; misuse#'the judge abused his power by imposing the fines'###弊#弊
+RTK1#1042#yell#/jɛl/##'her foot slipped and she gave a yell of fear'###喚#喚
+RTK1#1043#interchange#/ɪntəˈtʃeɪn(d)ʒ/##'superior and subordinates freely interchange information'###換#換
+RTK1#1044#dissolve#/dɪˈzɒlv/#(with reference to a solid) become or cause to become incorporated into a liquid so as to form a solution#[no object] 'glucose dissolves easily in water'<div>[with object] 'dissolve a stock cube in a pint of hot water'</div>###融#融
+RTK1 marked#1045#alms#/ɑːmz/#(in historical contexts) money or food given to poor people#'the riders stopped to distribute alms'#<img src=""alms.jpg"" />##施#施
+RTK1 marked#1046#rotation######旋#旋
+RTK1#1047#play#####あそび#遊#遊
+RTK1#1048#trip#/trɪp/#a journey or excursion, especially for pleasure###りょこう&nbsp;#旅#旅
+RTK1#1049#not#####＿論（もちろん）#勿#勿
+RTK1#1050#thing#####もの#物#物
+RTK1#1276#merit#/ˈmɛrɪt/#the quality of being particularly good or worthy, especially so as to deserve praise or reward#composers of oustanding merit###効#効
+RTK1 marked#1277#contrast#/ˈkɒntrɑːst/#the state of being strikingly different from something else in juxtaposition or close association#'the day began cold and blustery, in contrast to almost two weeks of uninterrupted sunshine'###較#較</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">contrast ... car ... mingle
+RTK1#1278#school#####こうこう#校#校
+RTK1#1279#leg###'he was off as fast as his legs would carry him'###足#足
+RTK1#1280#stimulate#/ˈstɪmjʊleɪt/#raise levels of physiological or nervous activity in (the body or any biological system)#'the women are given fertility drugs to stimulate their ovaries'###促#促
+RTK1#1281#long-distance######距#距
+RTK1#1282#path######路#路
+RTK1#1283#dew#/ˈdjuː/#tiny drops of water that form on cool surfaces at night, when atmospheric vapour condenses#'the grass was wet with dew'#<img src=""dew.jpg"" />##露#露
+RTK1#1284#hop#/hɒp/#move by jumping on one foot#'he hopped along beside her'#<img src=""hop.png"" />##跳#跳
+RTK1 marked#1285#leap#/liːp/#jump or spring a long way, to a great height, or with great force#'he leapt on to the parapet'###躍#躍</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">when birds leap to fly, they lose some of their feathers
+RTK1#1286#tread#/trɛd/#walk in a specified way#'Rosa trod as &nbsp;lightly as she could'#<img src=""tread.png"" />##践#践
+RTK1 marked#1287#step######踏#踏</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">foot step water sun
+RTK1#1288#skeleton#/ˈskɛlɪt(ə)n/#an internal or external framework of bone, cartilage, or other rigid material supporting or containing the body of an animal or plant####骨#骨
+RTK1#1289#slippery#/ˈslɪp(ə)ri/#(of a surface or object) difficult to hold firmly or stand on because it is smooth, wet, or slimy#'her hand was slippery with sweat'###滑#滑
+RTK1#1290#marrow#/ˈmarəʊ/#a long white-fleshed gourd with green skin, which is eaten as a vegetable#'Behind him, seven-year-old Jordan stood in awe with his grandmother, admiring the enormous marrows'#<img src=""marrow.jpg"" />##髄#髄
+RTK1#1293#overdo######過#過
+RTK1#1291#calamity#/kəˈlamɪti/#an event causing great and often sudden damage or distress; a disaster#emergency measures may be necessary in order to avert a calamity###禍#禍
+RTK1#1292#whirlpool#/ˈwəːlpuːl/#a quickly rotating mass of water in a river or sea into which objects may be drawn, typically caused by the meeting of conflicting currents##<img src=""whirlpool.jpg"" />##渦#渦
+RTK1#1294#incline#<div>/ɪnˈklʌɪn/</div>#be favourably disposed towards or willing to do something#he was inclined to accept the offer###阪#阪
+RTK1#1295#Africa######阿#阿
+RTK1#1296#occasion#/əˈkeɪʒ(ə)n/#a particular event, or the time at which it takes place#on one occasion I stayd up until two in the morning###際#際</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">some ritual is occasionally held on the dam
+RTK1#1297#hinder#<div>/ˈhɪndə/</div>#make it difficult for (someone) to do something or for (something) to happen#language barriers hindered communication between scientists###障#障</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the dam hinders you to take the badge
+RTK1#1298#follow######随#随</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">people being possessed follow a road led to the dam
+RTK1 marked#1299#auxiliary#/ɔːɡˈzɪlɪəri/[sound:xauxiliary_gb_1.mp3]#providing supplementary or additional help and support#the ship has an auxiliary power source###陪#陪
+RTK1#1300#sunshine######陽#陽
+RTK1#1301#line up######陳#陳</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the dam on the east is lined up
+RTK1#1302#ward off##prevent someone or something from harming or affecting one#she put up a hand as if to ward him off###防#防
+RTK1#1303#affixed#/əˈfɪks/#stick, attach, or fasten (something) to something else#I affix a leather saddle to his hairy back and ride him into many righteous battles###附#附
+RTK1#1304#Inst.#/ɪnst/#institution####院#院</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">The Institution wants to build a perfect dam
+RTK1#1305#camp######陣#陣
+RTK1#1246#bestow#/bɪˈstəʊ/#confer or present (an honour, right, or gift#the office was bestowed on him by the monarch of this realm#<img src=""bestow.jpg"" />##与#与
+RTK1#1247#copy######写#写
+RTK1#1248#somebody######身#身
+RTK1#1249#shoot#/ʃuːt/#kill or wound (a person or animal) with bullet or arrow####射#射
+RTK1#1250#apologize######謝#謝
+RTK1#1251#old man######老#老
+RTK1#1252#consider#####かんがえる#考#考
+RTK1#1253#filial piety#/ˈfɪlɪəl ˈpʌɪəti/#(in Confucianism) the important virtue and and primary duty of respect, obedience, and care for one's parents and elderly family members<div>* filial: relating to or due from a son or daughter</div><div>* piery: the quality of being religious or reverent</div>####孝#孝
+RTK1#1254#teach#####おしえる#教#教
+RTK1#1255#torture#/ˈtɔːtʃə/#the action or practice of inflicting severe pain on someone as a punishment or in order to force them to do or say something####拷#拷
+RTK1#1256#someone######者#者
+RTK1#1257#boil######煮#煮
+RTK1 marked#1258#renowned######著#著
+RTK1#1259#signature######署#署
+RTK1#1260#sultry#/ˈsʌltri/#(of the air or weather) hot and humid#'The sultry late summer weather had brought swarms of insects'##あつい#暑#暑
+RTK1#1231#bow######弓#弓
+RTK1#1232#pull######引#引
+RTK1#1233#condolences#/kənˈdəʊl(ə)ns/#an expression of sympathy, especially on the occasion of the death of a person's relative or close friend#'We offer our sincere condolences to his widow'###弔#弔
+RTK1#1234#vast#/vɑːst/#of very great extend or quantity#'a vast plain full of orchards'###弘#弘
+RTK1#1235#strong#####つよい#強#強
+RTK1#1236#weak#####よわい#弱#弱
+RTK1#1237#seethe######沸#沸
+RTK1#1238#expense######費#費
+RTK1#1239#No.#####だい#第#第
+RTK1#1240#younger brother#####おとうと#弟#弟
+RTK1#1241#adroit#/əˈdrɔɪt#clever or skillful#he was adroit at tax avoidance#<img src=""adroit.jpg"" />##巧#巧
+RTK1#1242#nickname######号#号
+RTK1#1243#decay######朽#朽
+RTK1#1244#boast#/bəʊst/#talk with excessive pride and self-satisfaction about one's achievement, possessions, or abilities#she boasted about her many conquests###誇#誇
+RTK1#1245#dirty#####けがらわしい#汚#汚
+RTK1 marked#1336#shrink#/ʃrɪŋk/#become or make smaller in size or amount#'The workfroce shrank to a thousand'###縮#縮</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">thread inn shrink
+RTK1#1337#luxuriant#/lʌɡˈzjʊərɪənt/#(of vegetation) rich and profuse in growth#'forest of dark, luxuriant foliage'#<img src=""luxuriant.jpg"" />##繁#繁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">luxuriant .. cleverness ... thread
+RTK1 marked#1338#vertical#/ˈvəːtɪk(ə)l/#at right angles to a horizontal plane; in a direction, or having an alignment, such that that the top is directly above the bottom#'the vertical axis'###縦#縦</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">vertical ... thread ... accompany
+RTK1 marked#1339#line######線#線</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">line ... thread ... spring
+RTK1#1340#tighten######締#締
+RTK1#1341#fiber#/ˈfʌɪbə/#####維#維</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fiber ... thread ... bird
+RTK1#1342#gauze#/ɡɔːz/#a thin transparent fabric of silk, linen, or cotton##<img src=""gauze.jpg"" />##羅#羅
+RTK1#1343#practice#####れん習#練#練
+RTK1#1344#thong#/θɒŋ/#a narrow strip of leather or other material, used especially as a fastening or as the lash of a whip##<img src=""thong.jpg"" />##緒#緒</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">thong is the thread used to hit someone
+RTK1#1345#continue######続#続
+RTK1#1346#picture######絵#絵
+RTK1#1347#overall######統#統</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">overalll ... thread ... allot
+RTK1#1348#strangle#/ˈstraŋɡ(ə)l/#squeeze or constrict the neck of (a person or animal), especially so as to cause death#'The victim was strangled with a scarf'###絞#絞</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">strangle ... thread ... mingle
+RTK1#1349#salary######給#給
+RTK1#1350#entwine#/ɪnˈtwʌɪn/#wind or twist together; interweave##<img src=""intwine.jpg"" />##絡#絡
+RTK1#1396#shins#/ʃɪn/[sound:shin_gb_1.mp3]#the front of the leg below the knee##<img src=""shins.jpg"" />##脚#脚
+RTK1#1397#wholesale#/ˈhəʊlseɪl/[sound:wholesale_gb_1.mp3]#the business of selling of goods in large quantities and at low prices, typically to be sold on by retailers at a profit####卸#卸
+RTK1#1398#honorable#<div>/ˈɒn(ə)rəb(ə)l/</div>[sound:honourable_gb_1.mp3]#bringing or deserving honour####御#御</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">honorable ... wholesale
+RTK1#1399#clothing######服#服
+RTK1#1400#fate#####いのち#命#命
+RTK1#1401#orders######令#令
+RTK1#1402#zero######零#零
+RTK1#1403#age#####高＿者（こうれいしゃ）#齢#齢</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">age ... tooth ... orders
+RTK1#1404#cool#<div>/kuːl/</div>[sound:cool_gb_1.mp3]#of or at a fairly low temperature####冷#冷</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cool ... ice ... orders
+RTK1#1405#jurisdiction#/ˌdʒʊərɪsˈdɪkʃ(ə)n/#the official power to make legal decisions and judgements#the English court had no jurisdiction over the defendants###領#領
+RTK1#1406#small bell######鈴#鈴
+RTK1#1407#courage#/ˈkʌrɪdʒ/#the ability to do something that frightens one; bravery#'She called on all her courage to face the ordeal'##_者(ゆうしゃ)#勇#勇
+RTK1#1408#traffic#<div>/ˈtrafɪk/</div>[sound:traffic_gb_1.mp3]#####通#通</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">traffic ... utilize ... road
+RTK1#1409#jump######踊#踊
+RTK1#1410#doubt######疑#疑
+RTK1#1441#head######頭#頭</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">head ... bean ... paper
+RTK1#1442#short#<div>/ʃɔːt/</div>[sound:short_gb_1.mp3]####みじかい#短#短</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">we use dart to shorten the bean
+RTK1#1443#bountiful#/ˈbaʊntɪfʊl/[sound:bountiful_gb_2.mp3]#large in quantity; abundant#'the ocean provided a bountiful supply of fresh food'###豊#豊</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">we have to bend a bountiful beans for food
+RTK1#1444#drum#<div>/drʌm/</div>[sound:drum_gb_1.mp3]#a percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped, with a taut membrane over one or both ends####鼓#鼓</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">drum ... drum ... branch
+RTK1#1445#rejoice#/rɪˈdʒɔɪs/[sound:rejoice_gb_1.mp3]#feel or show great joy or delight#'we spent the evening rejoicing at our victory'###喜#喜</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">rejoice ... drum ... mouth
+RTK1 marked#1446#timber-trees#<div>/ˈtɪmbə/</div>[sound:timber_gb_1.mp3]#tree used for taking wood####樹#樹</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">timber-trees ... tree ... drum ... measurement
+RTK1#1447#dish#<div>/dɪʃ/</div>[sound:dish_gb_1.mp3]#####皿#皿
+RTK1#1448#blood#/blʌd/[sound:blood_gb_1.mp3]#####血#血
+RTK1#1449#basin#/ˈbeɪs(ə)n/[sound:basin_gb_1.mp3]#a bowl for washing, typically attached to a wall and having taps connected to a water supply; a washbasin##<img src=""basin.jpg"" />##盆#盆</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">basin ... part ... dish
+RTK1#1450#alliance#/əˈlʌɪəns/[sound:alliance_gb_1.mp3]#a union or association formed for mutual benefit, especially between countries or organizations####盟#盟</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">alliance ... bright ... dish
+RTK1#1451#steal#/stiːl/[sound:steal_gb_1.mp3]#take (another person's property) without permission or legal right and without intending to return it#'thieves stole her bicycle'###盗#盗</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">steal ... next ... dish
+RTK1#1452#warm######温#温
+RTK1#1453#oversee#/əʊvəˈsiː/[sound:oversee_gb_1.mp3]#supervise (a person or their work), especially in an official capacity#'the Home Secretary oversees the police service'###監#監
+RTK1#1454#overflow#/əʊvəˈfləʊ/[sound:overflow_gb_1.mp3]#####濫#濫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">overflow ... water ... oversee
+RTK1#1455#specimen#/ˈspɛsɪmɪn/[sound:specimen_gb_1_8.mp3]#an idividual animall, plant, piece of a mineral, etc. used as an example of its species or type for scientific study or display####鑑#鑑</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">specimen ... gold ... oversee
+RTK1#1306#regiment#/ˈrɛdʒɪm(ə)nt/#a permanent unit of an army typically commanded by a lieutenant coloned and divided into several companies, squadrons, or batteries and often into two battalions#'By this time, I had become the executive officer of the regiment, a lieutenant colonel and all that.'###隊#隊
+RTK1#1307#crash####<img src=""crash.jpg"" />##墜#墜</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the regiment crashes into the ground
+RTK1#1308#descend#/dɪˈsɛnd/#move or fall downwards#the aircraft began to descend###降#降
+RTK1#1309#story#/ˈstɔːri/#a part of building comprising all the rooms that are on the same level#a three-storey building##かい#階#階
+RTK1 marked#1310#highness#/ˈhʌɪnəs/#a title given to a person of royal rank, or used in addressing them#I am most grateful, Your Highness##_下(へいか)#陛#陛
+RTK1 marked#1311#neighboring#/ˈneɪb(ə)rɪŋ/[sound:neighbouring_gb_1.mp3]#next to or very near another place; adjacent#his family had forced him to get engaged to a girl in the neighboring village, whom they had singled out###隣#隣
+RTK1 marked#1312#isolate######隔#隔</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">isolate ... dam ... tripot
+RTK1#1313#conceal#/kənˈsiːl/#not allow to be seen; hide#a line of sand dunes consealed the distant sea###隠#隠</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">the dam is hurrily consealed
+RTK1 marked#1314#degenerate#/dɪˈdʒɛn(ə)rət/#having lost the physical, mental, or moral qualities considered normal and desirable#a degenerate form of a higher civilization###堕#堕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">degenerate ... dam ... possess ... dirt
+RTK1#1315#collapse#<div>/kəˈlaps/</div>[sound:collapse_gb_1.mp3]#####陥#陥</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">collapse ... dam ... &nbsp;... old times
+RTK1#1316#hole######穴#穴
+RTK1#1317#empty#####そら#空#空
+RTK1#1318#withdraw#/wɪðˈdrɔː/#remove or take away (something) from a particular place or position#'Alice withdrew her hand from his'###控#控
+RTK1#1319#stab#/stab/#thrust a knife or other pointed weapon into (someone) so as to wound or kill#'he stabbed her in the stomach'###突#突
+RTK1#1320#research######究#究
+RTK1#1126#chop######析#析
+RTK1#1127#place#####場_(ばしょ)#所#所
+RTK1#1128#pray#/preɪ/#address a prayer to God or another deity####祈#祈
+RTK1#1129#near######近#近
+RTK1#1130#fold#/fəʊld/#bend (something flexible and relatively flat) over on itself so that one part of it covers another#Sam folded the map###折#折
+RTK1#1131#philosophy#/fɪˈlɒsəfi/#a theory or attitude that acts as a guiding principle for behaviour#don't expect anything and you won't be disappointed, that's my philosophy###哲#哲</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">philosophy ... nail bat ... axe ... mouth
+RTK1#1132#departed######逝#逝
+RTK1#1133#vow#/vaʊ/#a solemn promise####誓#誓</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">vow ... fold ... say
+RTK1 marked#1134#temporarily######暫#暫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">temporarily ... murder ... sun
+RTK1#1135#steadily######漸#漸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">steadily ... water ... murder
+RTK1#1136#severance#/ˈsɛv(ə)r(ə)ns/#the action of ending a connection or relationship#the severance and disetablishment of the Irish Church###断#断
+RTK1#1137#substance####<img src=""substance.jpg"" />##質#質</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">substance ... double axes ... shellfish
+RTK1#1138#reject#/rɪˈdʒɛkt/#dismiss as inadequate, unacceptable, or faulty####斥#斥
+RTK1#1139#accusation#/akjʊˈzeɪʃ(ə)n/#a charge or claim that someone has done something illegal or wrong#'accusations of bribery'###訴#訴
+RTK1#1140#yesterday#####きのう#昨#昨
+RTK1#1531#poison#/ˈpɔɪz(ə)n/#a substance that is capable of causing the illness or death of a living organism when introduced or absorbed#'he killed himself with poison'###毒#毒
+RTK1#1532#elementary#/ɛlɪˈmɛnt(ə)ri/#relating to the rudiments of a subject#'an elementary astronomy course'##_晴らしい(すばらしい)#素#素
+RTK1#1533#barley#/ˈbɑːli/#a hardy cereal with coarse bristles extending from the ears, cultivated especially for use in brewing and stockfeed##<img src=""barley.jpeg"" />##麦#麦
+RTK1#1534#blue#####あお#青#青
+RTK1#1535#refined#/rɪˈfʌɪnd/#with impurities or unwanted elements having been removed by processing#'refined sugar'###精#精</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">refined rice is blue
+RTK1#1536#solicit#/səˈlɪsɪt/#ask for or try to obtain (something) from someone#'he called a meeting to solicit their views'###請#請
+RTK1#1537#feelings######情#情
+RTK1 marked#1538#clear up######晴#晴
+RTK1#1539#pure#/pjʊə/#not mixed or adulterated with any other substance or material#'cars can run on pure alcohol'###清#清
+RTK1#1540#quiet#####しずか#静#静
+RTK1#1541#blame#####せき#責#責
+RTK1#1542#exploits#/ɪkˈsplɔɪt/#make full use of and derive benefit from (a resource)#'500 companies sprang up to exploit this new technology'###績#績</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">thread exploits its responsibility
+RTK1#1543#volume######積#積
+RTK1 marked#1544#bond######債#債
+RTK1#1545#pickling#/ˈpɪk(ə)lɪŋ/#(of food) suitable for being pickled or used in making pickles#'pickling onions'#<img src=""pickling.jpg"" />##漬#漬
+RTK1#1201#daybreak#/ˈdeɪbreɪk/#the time in the morning when daylight first appears; dawn#'she set off at daybreak#<img src=""daybreak.jpg"" />##暁#暁
+RTK1#1202#half######半#半
+RTK1#1203#consort#/ˈkɒnsɔːt/#a wife, husband, or companion, in particular the spouse of a reigning monarch#'Queen Victoria and her consort, Prince Albert'#<img src=""consort.jpg"" />##伴#伴
+RTK1#1204#paddy ridge####<img src=""paddy_ridge.jpg"" />##畔#畔
+RTK1#1205#judgment#/ˈdʒʌdʒm(ə)nt/#the ability to make considered decisions or come to sensible conclusions#'an error of judgement'###判#判
+RTK1 marked#1206#ticket####<img src=""ticket.jpg"" />##券#券
+RTK1#1207#scroll#/skrəʊl/#a roll of parchment or paper for writing on#'he reached into his shirt and pulled out a long scroll of paper'###巻#巻
+RTK1#1208#sphere#/sfɪə/#a round solid figure, or its surface, with every point on its surface equidistant from its center####圏#圏
+RTK1 marked#1209#victory######勝#勝
+RTK1#1210#wisteria#/wɪˈstɪərɪə/###<img src=""wisteria.jpg"" />#佐_(さとう)#藤#藤
+RTK1 marked#1211#facsimile#/fakˈsɪmɪli/#an extract copy, especially of written or printed material#'a facsimile of the manuscript'#<img src=""facsimile.png"" />##謄#謄
+RTK1#1212#one-sided###one-sided love###片#片
+RTK1#1213#printing block####<img src=""printing_block.jpg"" />##版#版
+RTK1 marked#1214#of######之#之
+RTK1#1215#destitution#/ˌdɛstɪˈtjuːʃn/#poverty so extreme that one lacks the means to provide for oneself#'the family faced eviction and destitution'#<img src=""destitution.jpg"" />##乏#乏
+RTK1#1411#mimic#<div>/ˈmɪmɪk/</div>[sound:mimic_gb_1.mp3]#####擬#擬
+RTK1 marked#1412#congeal#/kənˈdʒiːl/[sound:xcongeal_gb_1.mp3]#become semi-solid, especially on cooling#'the blood had congealed into blobs'###凝#凝</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">congeal ... &nbsp;... doubt
+RTK1#1413#pattern#<div>/ˈpat(ə)n/</div>[sound:pattern_gb_1.mp3]#####範#範</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">pattern ... bamboo ... car ... fingerprint
+RTK1 marked#1414#crime#<div>/krʌɪm/</div>[sound:crime_gb_1.mp3]#####犯#犯</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">crime ... dog ... fingerprint
+RTK1#1415#unlucky#/ʌnˈlʌki/[sound:unlucky_gb_1.mp3]#####厄#厄
+RTK1#1416#dangerous#/ˈdeɪn(d)ʒ(ə)rəs/#####危#危
+RTK1#1417#address#<div>/əˈdrɛs/</div>[sound:address_gb_2.mp3]#####宛#宛
+RTK1#1418#arm#/ɑːm/[sound:arm_gb_1.mp3]#each of the two upper limbs of the human body from the shoulder to the hand####腕#腕</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">arm ... moon ... address
+RTK1 marked#1419#garden#/ˈɡɑːd(ə)n/[sound:garden_gb_1.mp3]#####苑#苑
+RTK1#1420#grudge#/ɡrʌdʒ/[sound:grudge_gb_1.mp3]#a persistent feeling of ill will or resentment resulting from a past insult or injury#'I've never been one to hold a grudge'###怨#怨
+RTK1 marked#1421#willow#/ˈwɪləʊ/[sound:willow_gb_1.mp3]###<img src=""willow.jpg"" />##柳#柳
+RTK1#1422#egg######卵#卵
+RTK1 marked#1423#detain#/dɪˈteɪn/[sound:detain_gb_1.mp3]#keep (someone) from proceeding by holding them back or making claims on their attention#'she made to open the door, but he detained her'#<img src=""detain.jpg"" />##留#留
+RTK1#1424#trade#[sound:trade_gb_1.mp3]#####貿#貿
+RTK1#1425#stamp#/stamp/[sound:stamp_gb_1.mp3]#a small adhesive piece of paper stuck to something to show that an amount of money has been paid, in particular a postage stamp#'TV licence stamps'###印#印
+RTK1#1666#rapids######瀬#瀬
+RTK1#1667#imperial order######勅#勅
+RTK1#1668#alienate######疎#疎
+RTK1#1669#quick######速#速
+RTK1#1670#organize######整#整
+RTK1#1671#saber######剣#剣
+RTK1#1672#precipitous######険#険
+RTK1#1673#examination######検#検
+RTK1#1674#frugal######倹#倹
+RTK1#1675#heavy######重#重
+RTK1#1676#move######動#動
+RTK1#1677#meritorious deed######勲#勲
+RTK1#1678#work######働#働
+RTK1#1679#species######種#種
+RTK1#1680#collide######衝#衝
+RTK1#931#sort######類#類</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sort ... rice ... big ... paper
+RTK1 marked#932#lacquer#/ˈlakə/#a liquid made of shellac dissolved in alcohol, or of synthetic substances, that dies to form a hard protective coating for wood, metal, etc.##<img src=""lacquer.jpg"" />##漆#漆
+RTK1#933#Esq.#/ɪsˈkwʌɪə/#esquire<div><br /></div><div>a polite title appended to a man's name when no other title is used, typically in the address of a letter or other documents</div>###さま#様#様
+RTK1#934#request######求#求
+RTK1#935#ball######球#球
+RTK1#936#salvation#/salˈveɪʃ(ə)n/#preservation or deliverance from harm, ruin, or loss#'they try to sell it to us as economic salvation'###救#救
+RTK1#937#bamboo####<img src=""bamboo.jpg"" />##竹#竹
+RTK1#938#laugh#/lɑːf/####_顔(えがお)#笑#笑
+RTK1#939#bamboo hat####<img src=""bamboo_hat.jpg"" />##笠#笠
+RTK1#940#bamboo grass######笹#笹
+RTK1#941#muscle#/ˈmʌs(ə)l/#####筋#筋
+RTK1#942#box#####はこ#箱#箱
+RTK1#943#writing brush######筆#筆
+RTK1#944#cylinder#/ˈsɪlɪndə/#a solid geometrical figure with straingt parallel sides and a circular or oval cross section##<img src=""cylinder.png"" />##筒#筒
+RTK1#945#etc.#/ɛtˈsɛtərəːs/#####等#等
+RTK1#1471#daughter######娘#娘
+RTK1#1472#eat######食#食
+RTK1#1473#meal######飯#飯
+RTK1#1474#drink######飲#飲
+RTK1#1475#hungry######飢#飢
+RTK1#1476#starve######餓#餓
+RTK1#1477#decorate######飾#飾
+RTK1#1478#Bldg.######館#館
+RTK1#1479#foster######養#養
+RTK1#1480#sated######飽#飽
+RTK1#1481#previously######既#既
+RTK1#1482#outline######概#概
+RTK1#1483#rue######慨#慨
+RTK1#1484#even######平#平
+RTK1#1485#call######呼#呼
+RTK1#1156#matter#####_故(じこ)#事#事
+RTK1#1157#T'ang##Tang dynasty####唐#唐
+RTK1#1158#sugar######糖#糖
+RTK1#1159#sane######康#康
+RTK1 marked#1160#apprehend#/aprɪˈhɛnd/#arrest (someone) for a crime#'a warrant was issued but he has not been apprehend'###逮#逮
+RTK1 marked#1161#Italy######伊#伊
+RTK1#1162#old boy#####きみ#君#君
+RTK1#1163#flock#/flɒk/#a number of birds of one kind feeding, resting, or travelling together#'Adan clutched onto me and screamed, disturbing the flocks of birds resting in trees nearby'#<img src=""flock.jpg"" />##群#群</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">flock ... きみ ... sheep
+RTK1#1164#-proof#/pruːf/#able to withstand something damaging; resistant#bulletproof, fireproof###耐#耐</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">-proof ... comb ... measurement
+RTK1#1165#demand#/dɪˈmɑːnd/#an insistent and peremptory request, made as of right#'donor agencies are also putting pressure on the goverment to control spending and resist demands for further wage hikes'###需#需
+RTK1#1166#Confucian#/kənˈfjuːʃ(ə)n/#relating to Confucius or Confucianism####儒#儒</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">Confucian ... human ... demand
+RTK1#1167#edge######端#端
+RTK1#1168#both######両#両
+RTK1#1169#full######満#満</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">full ... water ... both
+RTK1#1170#brush stroke#####漫_(まんが)#画#画
+RTK1#1516#heat######熱#熱
+RTK1#1517#diamond######菱#菱
+RTK1#1518#mausoleum######陵#陵
+RTK1#1519#sign of the hog######亥#亥
+RTK1#1520#nucleus######核#核
+RTK1#1521#engrave######刻#刻
+RTK1#1522#above-stated######該#該
+RTK1#1523#censure######劾#劾
+RTK1#1524#mention######述#述
+RTK1#1525#art######術#術
+RTK1#1526#cold######寒#寒
+RTK1#1527#brew######醸#醸
+RTK1#1528#defer######譲#譲
+RTK1#1529#lot######壌#壌
+RTK1#1530#lass######嬢#嬢
+RTK1#1216#turf#/təːf/#grass and the surface layer of earth held together by its roots#'they walked across the springy turf'#<img src=""turf.jpg"" />##芝#芝</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">turf ... grass ... of
+RTK1#1217#negative##negative prefix#un-, non-##_安(ふあん)#不#不
+RTK1#1218#negate#/nɪˈɡeɪt/#make ineffective; nullify#'alcohol negates the effects of the drug'##いいえ#否#否
+RTK1#1219#cupfuls#/ˈkʌpfʊl/#the amount held by a cup#'a cupful of water'#<img src=""cupfuls.jpg"" />##杯#杯</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">cupfuls tree negative
+RTK1#1220#dart#/dɑːt/#a small pointed missile that can be thrown or fired#'the classroom was littered with paper darts'#<img src=""dart.jpg"" />##矢#矢
+RTK1#1221#rectify#/ˈrɛktɪfʌɪ/#put right; correct#'mistakes made now cannot be rectified later'###矯#矯</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">ReLU takes high values at the end of arrow
+RTK1#1222#tribe#/trʌɪb/#a social division in a tranditional sociaty consisting of families or communities linked by social, economic, religious, or blood ties, with a common culture and dialect, typically having a recognized leader##<img src=""tribe.jpg"" />##族#族</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">tribe ... direction ... arrow
+RTK1#1223#know#####しりあい#知#知
+RTK1#1224#wisdom#/ˈwɪzdəm/#the quality of having experience, knowledge, and good judgement; the quality of being wise#'listen to his words of wisdom'###智#智</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">wisdom ... know ... sun
+RTK1#1225#halberd#/ˈhalbəːd/#a combined spear and battleaxe##<img src=""halberd.jpg"" />##矛#矛
+RTK1#1226#tender#/ˈtɛndə/#showing gentleness, kindness, and affection#'he was being so kind and tender'##_道(じゅうどう)#柔#柔
+RTK1#1227#task######務#務</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">task ... halberd ... strike ... power
+RTK1#1228#fog#/fɒɡ/#a thick cloud of tiny water supended in the atmosphere at or near the earth's surface which obscures or restricts visibility#'the collision occurred in thick fog'###霧#霧</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fog ... rain ... task
+RTK1#1229#squad#/skwɒd/#a small group of people having a particular task#'an assassination squad'###班#班
+RTK1#1230#homecoming#####おかえりなさい#帰#帰
+RTK1#1351#tie#####_婚(けっこん)#結#結</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">tie ... thread ... good luck
+RTK1#1352#end######終#終
+RTK1#1353#class######級#級
+RTK1#1354#chronicle#/ˈkrɒnɪk(ə)l/#a factual written account of important or historical events in order of their occurence#'a vast chronicle of Spanish history'###紀#紀
+RTK1#1355#crimson#/ˈkrɪmz(ə)n/#of a rich deep red colour inclining to purple#'she blushed crimson with embarrassment'###紅#紅
+RTK1#1356#settlement#/ˈsɛt(ə)lm(ə)nt/#an official agreement intended to resolve a dispute or conflict#'unions succeeded in reching a pay settlement'###納#納</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">settlement ... thread ... inside
+RTK1#1357#spinning######紡#紡
+RTK1 marked#1358#distract#/dɪˈstrakt/#divert (attention) from something#'it was another attempt to distract attention from the truth'###紛#紛</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">thread distracts part
+RTK1#1359#introduce#####自己_介(じこしょうかい)#紹#紹
+RTK1#1360#sutra#/ˈsuːtrə/#A Buddhist scripture (sacred writings)#'Shakyamuni taught the sutras to ordinary disciples, in the form of Buddha'#<img src=""sutra.jpg"" />##経#経</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sutra ... thread ... again ... ground
+RTK1#1361#sire#/sʌɪə/#the male parent of an animal, especially a stallion or bull kept for breeding#'the sire is one of the country's top thoroughbred stallions'###紳#紳</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">speaketh thread sire
+RTK1#1362#promise#####_束(やくそく)#約#約
+RTK1#1363#dainty#/ˈdeɪnti/#delicately small and pretty#'a dainty lace handerchief'###細#細</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">people on the field have dainty handerchief made from thread
+RTK1 marked#1364#accumulate#/əˈkjuːmjʊleɪt/#gather together or acquire an increasing number or quantity of#'investigators have yet to accumulate enough evidence'###累#累</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">accumulate ... rice field ... thread
+RTK1 marked#1365#cord#/kɔːd/#thin, flexible string or rope made from several twisted strands#'her feet were tied with cord'#<img src=""cord.jpg"" />##索#索
+RTK1#2011#shake######振#振
+RTK1#2012#with child######娠#娠
+RTK1#2013#lips######唇#唇
+RTK1#2014#agriculture######農#農
+RTK1#2015#concentrated######濃#濃
+RTK1#2016#send off######送#送
+RTK1#2017#connection######関#関
+RTK1#2018#blossom######咲#咲
+RTK1#2019#ghost######鬼#鬼
+RTK1#2020#ugly######醜#醜
+RTK1#2021#soul######魂#魂
+RTK1#2022#witch######魔#魔
+RTK1#2023#fascination######魅#魅
+RTK1#2024#clod######塊#塊
+RTK1#2025#attack######襲#襲
+RTK1#1681#fragrant######薫#薫
+RTK1#1682#ill######病#病
+RTK1#1683#stupid######痴#痴
+RTK1#1684#pox######痘#痘
+RTK1#1685#symptoms######症#症
+RTK1#1686#rapidly######疾#疾
+RTK1#1687#diarrhea######痢#痢
+RTK1#1688#tired######疲#疲
+RTK1#1689#epidemic######疫#疫
+RTK1#1690#pain######痛#痛
+RTK1#1691#mannerism######癖#癖
+RTK1#1692#hide######匿#匿
+RTK1#1693#artisan######匠#匠
+RTK1#1694#doctor######医#医
+RTK1#1695#equal######匹#匹
+RTK1#1591#harp######琴#琴
+RTK1#1592#shade######陰#陰
+RTK1#1593#beforehand######予#予
+RTK1#1594#preface######序#序
+RTK1#1595#deposit######預#預
+RTK1#1596#plains######野#野
+RTK1#1597#concurrently######兼#兼
+RTK1#1598#dislike######嫌#嫌
+RTK1#1599#sickle######鎌#鎌
+RTK1#1600#self-effacing######謙#謙
+RTK1#1601#bargain######廉#廉
+RTK1#1602#west######西#西
+RTK1#1603#value######価#価
+RTK1#1604#need######要#要
+RTK1#1605#loins######腰#腰
+RTK1#1561#hump######隆#隆
+RTK1#1562#summit######峰#峰
+RTK1#1563#sew######縫#縫
+RTK1#1564#worship######拝#拝
+RTK1#1565#longevity######寿#寿
+RTK1#1566#casting######鋳#鋳
+RTK1#1567#enroll######籍#籍
+RTK1#1568#springtime######春#春
+RTK1#1569#camellia######椿#椿
+RTK1#1570#peaceful######泰#泰
+RTK1#1571#play music######奏#奏
+RTK1#1572#reality######実#実
+RTK1#1573#dedicate######奉#奉
+RTK1#1574#stipend######俸#俸
+RTK1#1575#rod######棒#棒
+RTK1#1981#equestrian######騎#騎
+RTK1#1982#parking######駐#駐
+RTK1#1983#drive######駆#駆
+RTK1#1984#station######駅#駅
+RTK1#1985#boisterous######騒#騒
+RTK1#1986#burdensome######駄#駄
+RTK1#1987#wonder######驚#驚
+RTK1#1988#fervent######篤#篤
+RTK1#1989#inflation######騰#騰
+RTK1#1990#tiger######虎#虎
+RTK1#1991#captive######虜#虜
+RTK1#1992#skin######膚#膚
+RTK1#1993#void######虚#虚
+RTK1#1994#frolic######戯#戯
+RTK1#1995#uneasiness######虞#虞
+RTK1#2041#sign of the hare######卯#卯
+RTK1#2042#sign of the snake######巳#巳
+RTK1#1501#evade######避#避
+RTK1#1502#new######新#新
+RTK1#1503#firewood######薪#薪
+RTK1#1504#parent######親#親
+RTK1#1505#happiness######幸#幸
+RTK1#1506#tenacious######執#執
+RTK1#1507#report######報#報
+RTK1#1508#shout######叫#叫
+RTK1#1509#twist######糾#糾
+RTK1#1510#income######収#収
+RTK1#1511#lowly######卑#卑
+RTK1#1512#tombstone######碑#碑
+RTK1#1513#land######陸#陸
+RTK1#1514#intimate######睦#睦
+RTK1#1515#forces######勢#勢
+RTK1#1486#two-mat area######坪#坪
+RTK1#1487#evaluate######評#評
+RTK1#1488#reap######刈#刈
+RTK1#1489#hope######希#希
+RTK1#1490#villain######凶#凶
+RTK1#1491#bosom######胸#胸
+RTK1#1492#detach######離#離
+RTK1#1493#kill######殺#殺
+RTK1#1494#genuine######純#純
+RTK1#1495#dull######鈍#鈍
+RTK1#1496#spicy######辛#辛
+RTK1#1497#resign######辞#辞
+RTK1#1498#catalpa######梓#梓
+RTK1#1499#superintend######宰#宰
+RTK1#1500#wall######壁#壁
+RTK1#2161#widespread######氾#氾
+RTK1#2162#marine blue######瑠#瑠
+RTK1#2163#hooch######酎#酎
+RTK1#2164#lid######蓋#蓋
+RTK1#2165#indigo######藍#藍
+RTK1#2166#feed######餌#餌
+RTK1#2167#mochi######餅#餅
+RTK1#2168#moment######刹#刹
+RTK1#2169#crystal######璃#璃
+RTK1#2170#bracing######爽#爽
+RTK1#2171#immediate######頓#頓
+RTK1#2172#holed gem######璧#璧
+RTK1#2173#clasp######摯#摯
+RTK1#2174#remains######骸#骸
+RTK1#2175#block up######塞#塞
+RTK1#1951#abet######援#援
+RTK1#1952#slacken######緩#緩
+RTK1#1953#belong######属#属
+RTK1#1954#entrust######嘱#嘱
+RTK1#1955#accidentally######偶#偶
+RTK1#1956#interview######遇#遇
+RTK1#1957#foolish######愚#愚
+RTK1#1958#corner######隅#隅
+RTK1#1959#inverted######逆#逆
+RTK1#1960#model######塑#塑
+RTK1#1961#Mount######岡#岡
+RTK1#1962#steel######鋼#鋼
+RTK1#1963#hawser######綱#綱
+RTK1#1964#sturdy######剛#剛
+RTK1#1965#tin can######缶#缶
+RTK1#1861#empress######后#后
+RTK1#1862#phantasm######幻#幻
+RTK1#1863#director######司#司
+RTK1#1864#pay respects######伺#伺
+RTK1#1865#parts of speech######詞#詞
+RTK1#1866#domesticate######飼#飼
+RTK1#1867#heir######嗣#嗣
+RTK1#1868#boat######舟#舟
+RTK1#1869#liner######舶#舶
+RTK1#1870#navigate######航#航
+RTK1#1871#carrier######般#般
+RTK1#1872#tray######盤#盤
+RTK1#1873#conveyor######搬#搬
+RTK1#1874#ship######船#船
+RTK1#1875#warship######艦#艦
+RTK1#1021#design######柄#柄
+RTK1#1022#meat######肉#肉
+RTK1#1023#rot#/rɒt/#decay or cause to decay by the action of bacteria and fungi; decompose####腐#腐
+RTK1#1024#sit#####すわる#座#座
+RTK1#1025#graduate#####_業(そつぎょう)#卒#卒
+RTK1#1026#umbrella#/ʌmˈbrɛlə/####かさ#傘#傘
+RTK1#1027#monme##unit of weight, 3.75 g###もんめ#匁#匁
+RTK1#1028#by means of##with the help of; by using#'he cautiously went inside by means of a small side door'##_上(いじょう)#以#以
+RTK1#1029#similar#####_合い(にあい)#似#似
+RTK1#1030#join######併#併
+RTK1#1031#tile#/tʌɪl/#a thin rectangular slab of baked clay or other material, used in overlapping rows for covering roofs##<img src=""tile.jpg"" />##瓦#瓦
+RTK1#1032#flower pot######瓶#瓶
+RTK1#1033#Shinto shrine#####一_(いちのみや)#宮#宮
+RTK1#1034#occupation#/ɒkjʊˈpeɪʃ(ə)n/#a job or profession#'people in profession occupations'###営#営
+RTK1#1035#virtuous#/ˈvəːtʃʊəs/#having or showing high moral standards#'she considered herself virtuous because she neither drank nor smoked'###善#善
+RTK1#1066#bureau#/ˈbjʊərəʊ/#a writing desk with drawers and typically an angled top opening downwards to form a writing surface##<img src=""bureau.jpg"" />##局#局
+RTK1#1067#slow######遅#遅
+RTK1#1068#leak#/liːk/#(of a container or covering) accidentally lose or admit contents, especially liquid or gas, through a hold or crack#'the roof leaked'###漏#漏
+RTK1#1069#printing######刷#刷
+RTK1#1070#shaku##unit of distance approximately equal to 30.3 cm###しゃく#尺#尺
+RTK1#1071#exhaust#/ɪɡˈzɔːst/#make (someone) feel very tired#'her day out had exhausted her'<div>- day out : a trip or visit somewhere for a day</div>###尽#尽
+RTK1#1072#swamp#/swɒmp/#an area of low-lying, uncultivated ground where water collects; a bog or marsh##<img src=""swamp.jpg"" />##沢#沢
+RTK1#1073#translate######訳#訳
+RTK1#1074#choose######択#択
+RTK1#1075#daytime######昼#昼
+RTK1#1076#door######戸#戸
+RTK1#1077#shoulder#/ˈʃəʊldə/#the upper joint of each of a person's arms and the part of the body between this and the neck##<img src=""shoulder.jpg"" />##肩#肩
+RTK1#1078#tassel#/ˈtas(ə)l/#a tuft of loosely hanging threads or cords knotted at one end and attached for decoration to soft furnishings, clothing, or other items##<img src=""tassel.jpg"" />##房#房
+RTK1#1079#fan####<img src=""fan.jpg"" />#おうぎ#扇#扇</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fan ... door ... feathers
+RTK1#1080#hearth#/hɑːθ/#the floor of fireplace##<img src=""irori.jpg"" />#囲_裏(いろり)#炉#炉
+RTK1#2176#awakening######醒#醒
+RTK1#2177#bee######蜂#蜂
+RTK1#2178#trifle######僅#僅
+RTK1#2179#saliva######唾#唾
+RTK1#2180#covet######貪#貪
+RTK1#2181#wrench######捻#捻
+RTK1#2182#shudder######慄#慄
+RTK1#2183#pitch dark######闇#闇
+RTK1#2184#throat######喉#喉
+RTK1#2185#bitter######辣#辣
+RTK1#2186#tumor######腫#腫
+RTK1#2187#carbuncle######瘍#瘍
+RTK1#2188#lose weight######痩#痩
+RTK1#2189#envy######嫉#嫉
+RTK1#2190#scar######痕#痕
+RTK1#1756#England######英#英
+RTK1#1757#reflect######映#映
+RTK1#1758#red######赤#赤
+RTK1#1759#pardon######赦#赦
+RTK1#1760#unusual######変#変
+RTK1#1761#tracks######跡#跡
+RTK1#1762#barbarian######蛮#蛮
+RTK1#1763#romance######恋#恋
+RTK1#1764#gulf######湾#湾
+RTK1#1765#yellow######黄#黄
+RTK1#1766#sideways######横#横
+RTK1#1767#grasp######把#把
+RTK1#1768#color######色#色
+RTK1#1769#discontinue######絶#絶
+RTK1#1770#glossy######艶#艶
+RTK1#1696#ward######区#区
+RTK1#1697#hinge######枢#枢
+RTK1#1698#assault######殴#殴
+RTK1#1699#Europe######欧#欧
+RTK1#1700#repress######抑#抑
+RTK1#1701#faceup######仰#仰
+RTK1#1702#welcome######迎#迎
+RTK1#1703#ascend######登#登
+RTK1#1704#lucidity######澄#澄
+RTK1#1705#discharge######発#発
+RTK1#1706#abolish######廃#廃
+RTK1#1708#dormitory######寮#寮
+RTK1#1707#colleague######僚#僚
+RTK1#1606#ballot######票#票
+RTK1#1607#drift######漂#漂
+RTK1#1710#carve######彫#彫
+RTK1#1709#heal######療#療
+RTK1#1608#signpost######標#標
+RTK1#1609#chestnut######栗#栗
+RTK1#1610#transition######遷#遷
+RTK1#1611#capsize######覆#覆
+RTK1#1612#smoke######煙#煙
+RTK1#1613#south######南#南
+RTK1#1614#camphor tree######楠#楠
+RTK1#1615#offering######献#献
+RTK1#1616#gates######門#門
+RTK1#1617#question######問#問
+RTK1#1618#review######閲#閲
+RTK1#1619#clique######閥#閥
+RTK1#1620#interval######間#間
+RTK1#1636#guilt######罪#罪
+RTK1#1637#comrade######輩#輩
+RTK1#1638#front door######扉#扉
+RTK1#1639#marquis######侯#侯
+RTK1#1640#climate######候#候
+RTK1#1641#decide######決#決
+RTK1#1642#cheerful######快#快
+RTK1#1643#admirable######偉#偉
+RTK1#1644#difference######違#違
+RTK1#1645#horizontal######緯#緯
+RTK1#1646#defense######衛#衛
+RTK1#1647#Korea######韓#韓
+RTK1#1648#dry######干#干
+RTK1#1649#liver######肝#肝
+RTK1#1650#publish######刊#刊
+RTK1#1381#how many######幾#幾
+RTK1#1382#mechanism#/ˈmɛk(ə)nɪz(ə)m/#a system of parts working together in a machine; a piece of machinery####機#機</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">mechanism ... tree ... how many
+RTK1#1383#mysterious######玄#玄
+RTK1#1384#livestock######畜#畜
+RTK1#1385#amass#/əˈmas/#gather together or accumulate (a large amount or number of material or things) over a period of time#'he amassed a fortune estimated at close to a million pounds'###蓄#蓄</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">amass ... grass ... livestock
+RTK1#1386#bowstring#/ˈbəʊstrɪŋ/[sound:bowstring_gb_1.mp3]#####弦#弦</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">bowstring ... bow ... mysterious
+RTK1#1387#hug#<div>/hʌɡ/</div>[sound:hug_gb_1.mp3]#####擁#擁
+RTK1#1388#nourishing######滋#滋
+RTK1#1389#mercy#/ˈməːsi/#compassion or forgiveness shown towards someone whom it is within one's power to punish or harm#'the boy was screaming and begging for mercy'###慈#慈
+RTK1#1390#magnet#/ˈmaɡnɪt/[sound:magnet_gb_1_8.mp3]#####磁#磁
+RTK1#1391#lineage#/ˈlɪnɪɪdʒ/#direct descent from an ancestor; ancestry or pedigree#'a Dutch nobleman of ancient lineage'###系#系
+RTK1#1392#person in charge######係#係</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">person in charge ... human ... lineage
+RTK1#1393#grandchild######孫#孫</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">grandchild ... child ... lineage
+RTK1#1394#suspend#/səˈspɛnd/[sound:suspend_gb_1.mp3]#temporarily prevent from continuing or being in force or effect#'work on the dam was suspended'###懸#懸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">suspend ... prefecture ... lineage ... heart
+RTK1 marked#1395#instead######却#却
+RTK1#1426#entertain#/ɛntəˈteɪn/[sound:entertain_gb_1.mp3]#provide (someone) with amusement or enjoyment#'a tremendous game that thoroughly entertained the crowd'##_味(きょうみ)#興#興
+RTK1#1427#sign of the bird##tenth sign of the Chinese zodiac (The Bird - chicken)###とり#酉#酉
+RTK1#1428#sake##Japanese rice wine###さけ#酒#酒</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sake ... water ... whiskey bottle
+RTK1#1429#bartending#/ˈbɑːtɛnd/[sound:bartend_gb_1.mp3]#work serving drinks at a bar#'he bartended a bit, but never had a full-time job'#<img src=""bartend.jpg"" />##酌#酌</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">bartending ... whiskey bottle ... ladle
+RTK1 marked#1430#fermentation#/fəːmɛnˈteɪʃ(ə)n/[sound:fermentation_gb_1_8.mp3]#the chemical breakdown of a substance by bacteria, yeasts, or other microorganisms, typically involving effervescence (bubbles in a liquid) and the giving off of heat#'the fermentation of organic matter by microorganisms in the gut (stomach)'###酵#酵</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fermentation ... whiskey bottle ... filial piety
+RTK1#1431#cruel#/krʊəl/[sound:cruel_gb_1_8.mp3]#wilfully causing pain or suffering to others, or feeling no concern about it#'people who are cruel to animals'##ひどい#酷#酷
+RTK1#1432#repay#[sound:repay_gb_1_8.mp3]#pay back (a loan)#'the loans were to be repaid over a 20-year period'###酬#酬</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">repay ... whiskey bottle ... state
+RTK1#1433#dairy products#/ˈdɛːri/[sound:dairy_gb_2.mp3]#a product containing or made from milk#'low-fat dairy products'###酪#酪</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">dairy products ... whiskey bottle ... each
+RTK1#1434#vinegar#/ˈvɪnɪɡə/[sound:vinegar_gb_1.mp3]#a sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling##<img src=""vinegar.jpg"" />##酢#酢</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">vinegar ... whiskey bottle ... saw
+RTK1#1435#drunk######酔#酔</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">drunk ... whiskey bottle ... ninety
+RTK1#1436#distribute#/dɪˈstrɪbjuːt/[sound:distribute_gb_1.mp3]#give a share or a unit of (something) to each of a number of recipients####配#配</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">distribute ... whiskey bottle ... self
+RTK1#1437#acid#/ˈasɪd/[sound:acid_gb_1.mp3]#####酸#酸</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">acid ... whiskey bottle ... license ...
+RTK1#1438#waver#/ˈweɪvə/[sound:waver_gb_1.mp3]#move in a quivering way; flicker#'the flame wavered in the draught'#<img src=""waver.gif"" />##猶#猶
+RTK1 marked#1439#revered#/rɪˈvɪə/[sound:revere_gb_1.mp3]#feel deep respect or admiration for (something)#'we will always love you, and revere your amazing grace in that wonderful season'###尊#尊</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">revered ...&nbsp;
+RTK1#1440#beans#/biːn/[sound:bean_gb_1.mp3]###<img src=""bean.jpg"" />##豆#豆
+RTK1#2191#obvious######瞭#瞭
+RTK1#2192#speckled######斑#斑
+RTK1#2193#defile######潰#潰
+RTK1#2194#aim at######狙#狙
+RTK1#2195#accept humbly######戴#戴
+RTK1#2196#donburi######丼#丼
+RTK1#2197#palisade######柵#柵
+RTK1#2198#suckle######哺#哺
+RTK1#2199#interrogative######那#那
+RTK1#2200#gunwale######舷#舷
+RTK1#2201#pillow######枕#枕
+RTK1#2202#nifty######凄#凄
+RTK1#2203#noodles######麺#麺
+RTK1#2204#eyebrow######眉#眉
+RTK1#2205#apprehensive######畏#畏
+RTK1#1711#shape######形#形
+RTK1#1712#shadow######影#影
+RTK1#1713#cedar######杉#杉
+RTK1#1714#coloring######彩#彩
+RTK1#1715#patent######彰#彰
+RTK1#1716#lad######彦#彦
+RTK1#1717#face######顔#顔
+RTK1#1718#ought######須#須
+RTK1#1719#swell######膨#膨
+RTK1#1720#visit######参#参
+RTK1#1721#wretched######惨#惨
+RTK1#1722#discipline######修#修
+RTK1#1723#rare######珍#珍
+RTK1#1724#checkup######診#診
+RTK1#1725#sentence######文#文
+RTK1#1096#consolation#/ˌkɒnsəˈleɪʃ(ə)n/#the confort received by a person after a loss or disappointment##<img src=""consolation.jpg"" />##慰#慰</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">consolation ... military officer ... heart
+RTK1#1097#goodwill######款#款
+RTK1#1098#prohibition#/prəʊɪˈbɪʃ(ə)n/#the action of forbidding something, especially by law#'they argue that prohibition of drugs will always fail'#<img src=""prohibition.jpg"" />##禁#禁</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">prohibition ... grove ... show
+RTK1#1099#collar#/ˈkɒlə/#a band put around the neck of an animal, used to restrain, control, or identify it##<img src=""collar.jpg"" />##襟#襟</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">collar ... garment ... prohibition
+RTK1#1100#religion#/rɪˈlɪdʒ(ə)n/#the belief in and worship of a superhuman controlling power, especially a personal God or gods####宗#宗
+RTK1#1101#adore#/əˈdɔː/#love and respect (someone) deeply####崇#崇</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">moutain adores religion
+RTK1#1102#ritual######祭#祭
+RTK1#1103#guess#/ɡɛs/#estimate or conclude (something) without sufficient information to be sure of being correct####察#察
+RTK1#1104#grate#/ɡreɪt/#recude (food) to small shreds by rubbing it on a grater#'peel and roughly grate the carrots'#<img src=""grate.jpg"" />##擦#擦</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">grate ... nail bat ... guess
+RTK1#1105#wherefore#/ˈwɛːfɔː/#for what reason#'she took an ill turn, but wherefore I cannot say'###由#由
+RTK1#1106#pluck#/plʌk/#take hold of (something) and quickly remove it from its place##<img src=""pluck.jpg"" />##抽#抽</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">pluck ... nail bat ... wherefore
+RTK1#1107#oil#/ɔɪl/#a viscous liquid derived from petroleum, especially for use as fuel or lubricant####油#油</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">oil ... water ... wherefore
+RTK1#1108#sleeve#/sliːv/#the part of a garment that wholly or partly covers a person's arm##<img src=""sleeve.jpg"" />##袖#袖</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">sleeve ... garment ... wherefore
+RTK1#1109#mid-air######宙#宙
+RTK1#1110#deliver######届#届</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">someone delivers me that flag wherefore ...
+RTK1#1966#pottery######陶#陶
+RTK1#1967#swing######揺#揺
+RTK1#1968#Noh chanting######謡#謡
+RTK1#1969#concerning######就#就
+RTK1#1970#sociable######懇#懇
+RTK1#1971#groundbreaking######墾#墾
+RTK1#1973#elude######逸#逸
+RTK1#1972#excuse######免#免
+RTK1#1974#nightfall######晩#晩
+RTK1#1975#exertion######勉#勉
+RTK1#1976#elephant######象#象
+RTK1#1977#statue######像#像
+RTK1#1978#horse######馬#馬
+RTK1#1979#pony######駒#駒
+RTK1#1980#verification######験#験
+RTK1#1786#precious######貴#貴
+RTK1#1787#bequeath######遺#遺
+RTK1#1788#dispatch######遣#遣
+RTK1#1789#dance######舞#舞
+RTK1#1790#nothingness######無#無
+RTK1#1791#association######組#組
+RTK1#1792#coarse######粗#粗
+RTK1#1793#tariff######租#租
+RTK1#1794#ancestor######祖#祖
+RTK1#1795#thwart######阻#阻
+RTK1#1796#investigate######査#査
+RTK1#1797#help######助#助
+RTK1#1798#best regards######宜#宜
+RTK1#1799#tatami mat######畳#畳
+RTK1#1800#row######並#並
+RTK1#1801#outburst######暴#暴
+RTK1#1802#bomb######爆#爆
+RTK1#1803#respect######恭#恭
+RTK1#1804#elect######選#選
+RTK1#1805#Mr.######殿#殿
+RTK1#1806#well######井#井
+RTK1#1807#surround######囲#囲
+RTK1#1808#till######耕#耕
+RTK1#1809#Asia######亜#亜
+RTK1#1810#bad######悪#悪
+RTK1#1811#circle######円#円
+RTK1#1812#angle######角#角
+RTK1#1813#contact######触#触
+RTK1#1814#unravel######解#解
+RTK1#1815#again######再#再
+RTK1#1771#fertilizer######肥#肥
+RTK1#1772#sweet######甘#甘
+RTK1#1773#navy blue######紺#紺
+RTK1#1774#so-and-so######某#某
+RTK1#1775#conspire######謀#謀
+RTK1#1776#mediator######媒#媒
+RTK1#1777#deceit######欺#欺
+RTK1#1778#chess piece######棋#棋
+RTK1#1779#national flag######旗#旗
+RTK1#1780#period######期#期
+RTK1#1781#Go######碁#碁
+RTK1#1782#fundamentals######基#基
+RTK1#1783#tremendously######甚#甚
+RTK1#1784#intuition######勘#勘
+RTK1#1785#withstand######堪#堪
+RTK1#2206#go upstream######遡#遡
+RTK1#2207#gloom######鬱#鬱
+RTK1#2208#kick######蹴#蹴
+RTK1#2209#countenance######貌#貌
+RTK1#2210#insult######罵#罵
+RTK1#2211#foot of a mountain######麓#麓
+RTK1#2212#humiliate######羞#羞
+RTK1#1921#lengthen######張#張
+RTK1#1922#notebook######帳#帳
+RTK1#1923#dilate######脹#脹
+RTK1#1924#hair of the head######髪#髪
+RTK1#1925#unfold######展#展
+RTK1#1926#miss######喪#喪
+RTK1#1927#nest######巣#巣
+RTK1#1928#simple######単#単
+RTK1#1929#war######戦#戦
+RTK1#1930#Zen######禅#禅
+RTK1#1931#bullet######弾#弾
+RTK1#1932#cherry tree######桜#桜
+RTK1#1933#animal######獣#獣
+RTK1#1934#brain######脳#脳
+RTK1#1935#trouble######悩#悩
+RTK1#2146#chin######顎#顎
+RTK1#2147#chopsticks######箸#箸
+RTK1#2148#cheek######頬#頬
+RTK1#2149#large hill######阜#阜
+RTK1#2150#cauldron######釜#釜
+RTK1#2151#nab######捉#捉
+RTK1#2152#trail######踪#踪
+RTK1#2153#pot######鍋#鍋
+RTK1#2154#chink######隙#隙
+RTK1#2155#cavern######窟#窟
+RTK1#2156#fine######緻#緻
+RTK1#2157#come apart at the seams######綻#綻
+RTK1#2158#capital suburbs######畿#畿
+RTK1#2159#modest######遜#遜
+RTK1#2160#bubble up######湧#湧
+RTK1#1876#rowboat######艇#艇
+RTK1#1877#melon######瓜#瓜
+RTK1#1878#arc######弧#弧
+RTK1#1879#orphan######孤#孤
+RTK1#1880#cocoon######繭#繭
+RTK1#1881#benefit######益#益
+RTK1#1882#spare time######暇#暇
+RTK1#1883#spread######敷#敷
+RTK1#1884#come######来#来
+RTK1#1885#spirit######気#気
+RTK1#1886#vapor######汽#汽
+RTK1#1887#fly######飛#飛
+RTK1#1888#sink######沈#沈
+RTK1#1889#wife######妻#妻
+RTK1#1890#decline######衰#衰
+RTK1#1846#metropolis######都#都
+RTK1#1847#mail######郵#郵
+RTK1#1848#home country######邦#邦
+RTK1#1849#hometown######郷#郷
+RTK1#1850#echo######響#響
+RTK1#1851#son######郎#郎
+RTK1#1852#corridor######廊#廊
+RTK1#1853#shield######盾#盾
+RTK1#1854#sequential######循#循
+RTK1#1855#faction######派#派
+RTK1#1856#vein######脈#脈
+RTK1#1857#masses######衆#衆
+RTK1#1858#parcel post######逓#逓
+RTK1#1859#grade######段#段
+RTK1#1860#forge######鍛#鍛
+RTK1#1936#stern######厳#厳
+RTK1#1939#reputation######誉#誉
+RTK1#1940#game hunting######猟#猟
+RTK1#1941#bird######鳥#鳥
+RTK1#1937#chain######鎖#鎖
+RTK1#1938#raise######挙#挙
+RTK1#1943#crane######鶴#鶴
+RTK1#1944#crow######烏#烏
+RTK1#1945#vine######蔦#蔦
+RTK1#1946#pigeon######鳩#鳩
+RTK1#1947#chicken######鶏#鶏
+RTK1#1948#island######島#島
+RTK1#1949#warmth######暖#暖
+RTK1#1950#beautiful woman######媛#媛
+RTK1#2101#wick######芯#芯
+RTK1#2102#cowardice######臆#臆
+RTK1#2103#disquieting######惧#惧
+RTK1#2104#yearn######憧#憧
+RTK1#2105#hanker######憬#憬
+RTK1#2106#wipe######拭#拭
+RTK1#2107#yank######拉#拉
+RTK1#2108#imminent######拶#拶
+RTK1#2109#make headway######捗#捗
+RTK1#2110#tinker with######弄#弄
+RTK1#2111#spiny######梗#梗
+RTK1#2112#thigh######股#股
+RTK1#2113#lewd######淫#淫
+RTK1#2114#grab######采#采
+RTK1#2115#unclear######曖#曖
+RTK1#1741#vis-a-vis######対#対
+RTK1#1742#family crest######紋#紋
+RTK1#1743#mosquito######蚊#蚊
+RTK1#1744#adjusted######斉#斉
+RTK1#1745#dose######剤#剤
+RTK1#1746#finish######済#済
+RTK1#1747#purification######斎#斎
+RTK1#1748#solemn######粛#粛
+RTK1#1749#bases######塁#塁
+RTK1#1750#music######楽#楽
+RTK1#1751#medicine######薬#薬
+RTK1#1752#ratio######率#率
+RTK1#1753#astringent######渋#渋
+RTK1#1754#vicarious######摂#摂
+RTK1#1755#center######央#央
+RTK1#1621#simplicity######簡#簡
+RTK1#1622#open######開#開
+RTK1#1623#closed######閉#閉
+RTK1#1624#tower######閣#閣
+RTK1#1625#leisure######閑#閑
+RTK1#1942#chirp######鳴#鳴
+RTK1#1626#hear######聞#聞
+RTK1#1627#wet######潤#潤
+RTK1#1628#column######欄#欄
+RTK1#1629#fight######闘#闘
+RTK1#1630#godown######倉#倉
+RTK1#1631#genesis######創#創
+RTK1#1632#un-######非#非
+RTK1#1633#haiku######俳#俳
+RTK1#1634#repudiate######排#排
+RTK1#1635#sad######悲#悲
+RTK1#1831#lower######低#低
+RTK1#1832#resist######抵#抵
+RTK1#1833#bottom######底#底
+RTK1#1834#people######民#民
+RTK1#1835#sleep######眠#眠
+RTK1#1836#catch######捕#捕
+RTK1#1837#bay######浦#浦
+RTK1#1838#bullrush######蒲#蒲
+RTK1#1839#shop######舗#舗
+RTK1#1840#supplement######補#補
+RTK1#1841#residence######邸#邸
+RTK1#1842#enclosure######郭#郭
+RTK1#1843#county######郡#郡
+RTK1#1844#outskirts######郊#郊
+RTK1#1845#section######部#部
+RTK1#1891#inmost######衷#衷
+RTK1#1892#mask######面#面
+RTK1#1893#leather######革#革
+RTK1#1894#shoes######靴#靴
+RTK1#1895#hegemony######覇#覇
+RTK1#1896#voice######声#声
+RTK1#1897#give######呉#呉
+RTK1#1898#recreation######娯#娯
+RTK1#1899#mistake######誤#誤
+RTK1#1900#steam######蒸#蒸
+RTK1#1901#acquiesce######承#承
+RTK1#1902#bin######函#函
+RTK1#1903#poles######極#極
+RTK1#1904#tusk######牙#牙
+RTK1#1905#bud######芽#芽
+RTK1#1456#fierce#/fɪəs/[sound:fierce_gb_1.mp3]#having or display a violent or ferocious aggressiveness#'fierce fighting continued throughout the day'###猛#猛</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">fierce ... dog ... child ... dish
+RTK1#1457#boom#/buːm/[sound:boom_gb_1.mp3]#something that is popular and prospering####盛#盛</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">boom ... turn into ... dish
+RTK1#1458#salt#/sɔːlt/[sound:salt_gb_3.mp3]#a white crystalline substance which gives seawater its characteristic taste and is used for seasoning or preserving food####塩#塩</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">salt ... ground ... mouth ... dish
+RTK1#1459#silver#/ˈsɪlvə/[sound:silver_gb_1.mp3]#####銀#銀</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">silver ... metal ... siler
+RTK1#1460#resentment#<div>/rɪˈzɛntm(ə)nt/</div>[sound:resentment_gb_1.mp3]#bitter indignation at having been treated unfairly#'his resentment at being demoted'<div>- demote : give (someone) a lower rank or less senior position, usually as a pubishment</div>###恨#恨</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">resentment ... heart ... silver
+RTK1#1461#root#/ruːt/[sound:root_gb_1.mp3]#the part of a plant which attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches and fibres#'cacti have deep an spreading root'###根#根</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">root ... tree ... silver
+RTK1#1462#instant#/ˈɪnst(ə)nt/[sound:instant_gb_1.mp3]#happening or coming immediately#'the offence justified instant dismissal'###即#即</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">instant ... silver ... stamp
+RTK1#1463#baron#/ˈbar(ə)n/[sound:baron_gb_1.mp3]#a member of the lowest order of the British nobility. Baron is not used as a form of address, barons usually being referred to as 'Lord'####爵#爵</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">baron ... eye ... silver ... measurement
+RTK1#1464#node#/nəʊd/[sound:node_gb_1.mp3]#the part of a plant stem from which one or more leaves emerge, often forming a slight swelling#'the stem is cut midway between nodes'###節#節</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">node ... bamboo ... instant
+RTK1#1465#retreat#/rɪˈtriːt/[sound:retreat_gb_1.mp3]#(of an army) withdraw from enemy forces as a result of their superior power or after a defeat#'the French retreated in disarray'###退#退</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">retreat ... silver ... road
+RTK1#1466#limit#/ˈlɪmɪt/[sound:limit_gb_1.mp3]#a point or level beyond which something does not or may not extend or pass####限#限</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">limit ... dam ... silver
+RTK1#1467#eyeball#/ˈʌɪbɔːl/[sound:eyeball_gb_1.mp3]#the round part of the eye of a vertebrate, within the eyelids and socket##<img src=""eyeball.jpg"" />##眼#眼</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">eyeball ... eye ... silver
+RTK1#1468#good#####よい#良#良
+RTK1#1469#melodious#/məˈləʊdɪəs/[sound:melodious_gb_1_8.mp3]#pleasant-sounding#'he heard a fruity melodious voice'###朗#朗</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">melodious ... halo ... moon
+RTK1#1470#wandering#/ˈwɒnd(ə)rɪŋ/[sound:wandering_gb_1.mp3]#travelling aimlessly from place to place; itinerant####浪#浪</span>    <BR><BR><span style=""font-size: 12px;font-family:'Segoe UI'; "">wandering ... water ... halo
+RTK1#1546#surface######表#表
+RTK1#1547#bag######俵#俵
+RTK1#1548#undefiled######潔#潔
+RTK1#1549#pledge######契#契
+RTK1#1550#consume######喫#喫
+RTK1#1551#harm######害#害
+RTK1#1552#control######轄#轄
+RTK1#1553#proportion######割#割
+RTK1#1554#constitution######憲#憲
+RTK1#1555#life######生#生
+RTK1#1556#star######星#星
+RTK1#1557#surname######姓#姓
+RTK1#1558#sex######性#性
+RTK1#1559#animal sacrifice######牲#牲
+RTK1#1560#products######産#産
+RTK1#2026#upbraid######嚇#嚇
+RTK1#2027#majestic plural######朕#朕
+RTK1#2028#atmosphere######雰#雰
+RTK1#2029#item######箇#箇
+RTK1#2030#tempering######錬#錬
+RTK1#2031#abide by######遵#遵
+RTK1#2032#quit######罷#罷
+RTK1#2033#barracks######屯#屯
+RTK1#2034#moreover######且#且
+RTK1#2035#seaweed######藻#藻
+RTK1#2036#slave######隷#隷
+RTK1#2037#healing######癒#癒
+RTK1#2038#cinnabar######丹#丹
+RTK1#2039#lagoon######潟#潟
+RTK1#2040#sign of the cow######丑#丑
+RTK1#1576#discreet######謹#謹
+RTK1#1577#diligence######勤#勤
+RTK1#1578#Sino-######漢#漢
+RTK1#1579#sigh######嘆#嘆
+RTK1#1580#difficult######難#難
+RTK1#1581#splendor######華#華
+RTK1#1582#droop######垂#垂
+RTK1#1583#drowsy######睡#睡
+RTK1#1584#spindle######錘#錘
+RTK1#1585#ride######乗#乗
+RTK1#1586#surplus######剰#剰
+RTK1#1587#now######今#今
+RTK1#1588#include######含#含
+RTK1#1589#versify######吟#吟
+RTK1#1590#wish######念#念
+RTK1#2131#myself######俺#俺
+RTK1#2132#sprain######挫#挫
+RTK1#2133#dining tray######膳#膳
+RTK1#2134#cover over######蔽#蔽
+RTK1#2135#buttocks######尻#尻
+RTK1#2136#hem######裾#裾
+RTK1#2137#murder######斬#斬
+RTK1#2138#mortar######臼#臼
+RTK1#2139#break######毀#毀
+RTK1#2140#peel off######剥#剥
+RTK1#2141#glossary######彙#彙
+RTK1#2142#fist######拳#拳
+RTK1#2143#shove######挨#挨
+RTK1#2144#more and more######弥#弥
+RTK1#2145#drowning######溺#溺
+RTK1#1906#wicked######邪#邪
+RTK1#1907#gracious######雅#雅
+RTK1#1908#interpretation######釈#釈
+RTK1#1909#turn######番#番
+RTK1#1910#hearing######審#審
+RTK1#1911#flip######翻#翻
+RTK1#1912#clan######藩#藩
+RTK1#1913#fur######毛#毛
+RTK1#1914#decrease######耗#耗
+RTK1#1915#tail######尾#尾
+RTK1#1916#home######宅#宅
+RTK1#1917#consign######託#託
+RTK1#1918#do######為#為
+RTK1#1919#falsehood######偽#偽
+RTK1#1920#long######長#長
+RTK1#2116#hooked######勾#勾
+RTK1#2117#metallurgy######冶#冶
+RTK1#2118#bluffs######崖#崖
+RTK1#2119#kidney######腎#腎
+RTK1#2120#uprising######勃#勃
+RTK1#2121#girder######桁#桁
+RTK1#2122#training######稽#稽
+RTK1#2123#numb######萎#萎
+RTK1#2124#riddle######謎#謎
+RTK1#2125#knee######膝#膝
+RTK1#2126#stationery######箋#箋
+RTK1#2127#basket######篭#篭
+RTK1#2128#partner######侶#侶
+RTK1#2129#performing artist######伎#伎
+RTK1#2130#arrogance######傲#傲
+RTK1#2056#elbow######肘#肘
+RTK1#2057#derision######嘲#嘲
+RTK1#2058#pop song######唄#唄
+RTK1#2059#post a bill######貼#貼
+RTK1#2060#curse######呪#呪
+RTK1#2061#jealous######妬#妬
+RTK1#2062#sniff######嗅#嗅
+RTK1#2063#gland######腺#腺
+RTK1#2064#pan######汎#汎
+RTK1#2065#cleanse######汰#汰
+RTK1#2066#grains of sand######沙#沙
+RTK1#2067#inlay######填#填
+RTK1#2068#chair######椅#椅
+RTK1#2069#obscure######昧#昧
+RTK1#2070#bullying######苛#苛
+RTK1#2086#irrigate######沃#沃
+RTK1#2087#renunciation######諦#諦
+RTK1#2088#scold######叱#叱
+RTK1#2089#aroma######匂#匂
+RTK1#2090#about that time######頃#頃
+RTK1#2091#block letters######楷#楷
+RTK1#2092#orderliness######諧#諧
+RTK1#2093#kudzu######葛#葛
+RTK1#2094#visit a shrine######詣#詣
+RTK1#2095#piled high######堆#堆
+RTK1#2096#sweet oak######椎#椎
+RTK1#2097#who?######誰#誰
+RTK1#2098#weld######錮#錮
+RTK1#2099#windpipe######咽#咽
+RTK1#2100#selfish######恣#恣
+RTK1#1996#prudence######慮#慮
+RTK1#1997#drama######劇#劇
+RTK1#1998#tyrannize######虐#虐
+RTK1#1999#deer######鹿#鹿
+RTK1#2000#recommend######薦#薦
+RTK1#2001#jubilation######慶#慶
+RTK1#2002#lovely######麗#麗
+RTK1#2003#bear######熊#熊
+RTK1#2004#ability######能#能
+RTK1#2005#attitude######態#態
+RTK1#2006#sign of the tiger######寅#寅
+RTK1#2007#performance######演#演
+RTK1#2008#sign of the dragon######辰#辰
+RTK1#2009#embarrass######辱#辱
+RTK1#2010#quake######震#震
+RTK1#2071#spinal column######脊#脊
+RTK1#2072#toy######玩#玩
+RTK1#2073#effulgent######旺#旺
+RTK1#2074#metaphor######喻#喻
+RTK1#2076#graft######賂#賂
+RTK1#2078#elucidate######詮#詮
+RTK1#2077#Hades######冥#冥
+RTK1#2079#obituary######訃#訃
+RTK1#2080#relatives######戚#戚
+RTK1#2075#roast######煎#煎
+RTK1#2081#revile######蔑#蔑
+RTK1#2082#key######鍵#鍵
+RTK1#2083#towel######巾#巾
+RTK1#2084#persimmon######柿#柿
+RTK1#2085#bewitched######妖#妖
+RTK1#1726#universal######普#普
+RTK1#1727#musical score######譜#譜
+RTK1#1728#damp######湿#湿
+RTK1#1729#appear######顕#顕
+RTK1#1730#slender######繊#繊
+RTK1#1731#spirits######霊#霊
+RTK1#1732#profession######業#業
+RTK1#1733#slap######撲#撲
+RTK1#1734#me######僕#僕
+RTK1#1735#together######共#共
+RTK1#1736#submit######供#供
+RTK1#1737#uncommon######異#異
+RTK1#1738#wing######翼#翼
+RTK1#1739#deluge######洪#洪
+RTK1#1740#harbor######港#港
+RTK1#1816#lecture######講#講
+RTK1#1817#subscription######購#購
+RTK1#1818#posture######構#構
+RTK1#1819#gutter######溝#溝
+RTK1#1820#argument######論#論
+RTK1#1821#ethics######倫#倫
+RTK1#1822#wheel######輪#輪
+RTK1#1823#partial######偏#偏
+RTK1#1824#everywhere######遍#遍
+RTK1#1825#compilation######編#編
+RTK1#1826#tome######冊#冊
+RTK1#1827#code######典#典
+RTK1#1828#family name######氏#氏
+RTK1#1829#paper######紙#紙
+RTK1#1830#marriage######婚#婚
+RTK1#1651#sweat######汗#汗
+RTK1#1652#flats######軒#軒
+RTK1#1653#beach######岸#岸
+RTK1#1654#tree trunk######幹#幹
+RTK1#1655#potato######芋#芋
+RTK1#1656#eaves######宇#宇
+RTK1#1657#too much######余#余
+RTK1#1658#exclude######除#除
+RTK1#1659#gradually######徐#徐
+RTK1#1660#confer######叙#叙
+RTK1#1661#route######途#途
+RTK1#1662#diagonal######斜#斜
+RTK1#1663#paint######塗#塗
+RTK1#1664#bundle######束#束
+RTK1#1665#trust######頼#頼
